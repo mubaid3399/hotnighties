@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+ @import "tailwindcss";
+
+ * {
+     font-family: 'Montserrat', sans-serif;
+ }
+
+ body {
+     @apply text-sm;
+ }
+
+ @theme {
+     --primary-color: #501524;
+ }
+
+ /* Custom scrollbar */
+ .scrollbar-hide::-webkit-scrollbar {
+     display: none;
+ }
+
+ .scrollbar-hide {
+     -ms-overflow-style: none;
+     scrollbar-width: none;
+ }
