@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import gsap from 'gsap'
 import asset from '../../assets/asset'
 
@@ -101,7 +101,7 @@ const Hero = () => {
               src={img}
               alt={`Banner ${index + 1}`}
               draggable={false}
-              className="min-w-full h-[100px] sm:h-[150px] md:h-[200px] lg:h-[250px] xl:h-[400px] object-cover object-center"
+              className="min-w-full h-[180px] sm:h-[180px] md:h-[200px] lg:h-[250px] xl:h-[400px] object-cover object-center"
             />
           ))}
         </div>

@@ -439,7 +439,7 @@ const Navbar = () => {
       ======================================= */}
       <div 
         ref={floatingCartRef}
-        className="fixed bottom-6 right-6 z-[60] opacity-0 invisible"
+        className="fixed bottom-6 right-6 z-[60] opacity-0 invisible hidden md:block"
         style={{ transform: "scale(0.5)" }}
       >
         <button

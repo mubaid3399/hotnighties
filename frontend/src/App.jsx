@@ -1,4 +1,3 @@
-import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
@@ -17,6 +16,7 @@ import SizeGuide from './pages/SizeGuide';
 import CartSidebar from './components/Common/CartSidebar';
 import CartReminder from './components/Common/CartReminder';
 import ScrollToTop from './components/Common/ScrollToTop';
+import FloatingWhatsApp from './components/Common/FloatingWhatsApp';
 
 const App = () => {
   return (
@@ -32,6 +32,7 @@ const App = () => {
         <ScrollToTop />
         <CartSidebar />
         <CartReminder />
+        <FloatingWhatsApp />
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />

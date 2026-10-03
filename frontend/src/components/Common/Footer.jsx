@@ -1,6 +1,5 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
-import { Mail, Phone, MapPin } from 'lucide-react';
+import { Mail, Phone } from 'lucide-react';
 
 const FacebookIcon = () => (
   <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -131,10 +130,15 @@ const Footer = () => {
                 <Mail size={16} className="mr-3 text-white flex-shrink-0" />
                 support@hotnighties.com
               </div>
-              <div className="flex items-center text-gray-300 text-sm">
-                <Phone size={16} className="mr-3 text-white flex-shrink-0" />
-                +1 (555) 123-4567
-              </div>
+              <a
+                href="https://wa.me/923065363744?text=Hi%20Hotnighties%2C%20I%20have%20an%20inquiry"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center text-gray-300 hover:text-white transition-colors text-sm group"
+              >
+                <Phone size={16} className="mr-3 text-white flex-shrink-0 group-hover:scale-110 transition-transform" />
+                0306 5363744 (WhatsApp)
+              </a>
             </div>
           </div>
 

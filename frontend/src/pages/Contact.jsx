@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Contact = () => {
   return (
@@ -91,8 +90,23 @@ const Contact = () => {
 
             {/* Contact Details */}
             <div className="space-y-3 mb-10 text-sm text-gray-700 leading-relaxed">
-              <p><span className="font-bold text-gray-900">Phone Numbers:</span> (021) 111-624-524</p>
-              <p><span className="font-bold text-gray-900">WhatsApp:</span> +92 329 8388752</p>
+              <p>
+                <span className="font-bold text-gray-900">Phone Number:</span>{' '}
+                <a href="tel:03065363744" className="hover:text-[#501524] transition-colors">
+                  0306 5363744
+                </a>
+              </p>
+              <p>
+                <span className="font-bold text-gray-900">WhatsApp:</span>{' '}
+                <a
+                  href="https://wa.me/923065363744?text=Hi%20Hotnighties%2C%20I%20have%20an%20inquiry"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-semibold text-[#501524] hover:underline"
+                >
+                  0306 5363744
+                </a>
+              </p>
               <p><span className="font-bold text-gray-900">Email:</span> Help@hotnighties.pk</p>
               <p>
                 <span className="font-bold text-gray-900">Address:</span> Plot 3/321 Behan MCHS, Karachi<br/>
