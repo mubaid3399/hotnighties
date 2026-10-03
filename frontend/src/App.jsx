@@ -13,6 +13,7 @@ import ProductDetail from './pages/ProductDetail';
 import OrderSuccess from './pages/OrderSuccess';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import SizeGuide from './pages/SizeGuide';
+import NotFound from './pages/NotFound';
 import CartSidebar from './components/Common/CartSidebar';
 import CartReminder from './components/Common/CartReminder';
 import ScrollToTop from './components/Common/ScrollToTop';
@@ -45,6 +46,8 @@ const App = () => {
             <Route path="order-success" element={<OrderSuccess />} />
             <Route path="privacy-policy" element={<PrivacyPolicy />} />
             <Route path="size-guide" element={<SizeGuide />} />
+            <Route path="404" element={<NotFound />} />
+            <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>
       </BrowserRouter>
