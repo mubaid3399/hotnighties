@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ShopContext } from '../context/ShopContext';
 import ProductCard from '../components/product/ProductCard';
+import useSEO from '../utils/useSEO';
 
 const ProductDetail = () => {
   const { id } = useParams();
@@ -12,6 +13,13 @@ const ProductDetail = () => {
   const [size, setSize] = useState('M');
   const [relatedProducts, setRelatedProducts] = useState([]);
   const [activeTab, setActiveTab] = useState('description');
+
+  useSEO({
+    title: productData ? productData.title : 'Product Details',
+    description: productData?.description ? productData.description.slice(0, 160) : 'Buy premium intimate sleepwear and innerwear in Pakistan with discreet packaging.',
+    image: productData?.image,
+    canonical: `https://hotnighties.pk/product/${id}`,
+  });
 
   useEffect(() => {
     // Find the current product

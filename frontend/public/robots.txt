@@ -1,0 +1,13 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /404
+
+# Host
+Host: https://hotnighties.pk
+
+# Sitemaps
+Sitemap: https://hotnighties.pk/sitemap.xml

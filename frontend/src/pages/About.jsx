@@ -1,8 +1,15 @@
 import React from 'react';
 import asset from '../assets/asset';
 import WhyChooseUs from '../components/Home/WhyChooseUs';
+import useSEO from '../utils/useSEO';
 
 const About = () => {
+  useSEO({
+    title: 'About Us | Our Story',
+    description: 'Learn about Hotnighties. We empower women with premium, elegant nightwear and comfortable innerwear designed for all body shapes with complete discretion.',
+    canonical: 'https://hotnighties.pk/about',
+  });
+
   return (
     <div className="w-full bg-white pb-16">
       {/* =========================================

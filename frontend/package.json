@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "zip": "vite build && powershell -Command \"Compress-Archive -Path 'dist\\*', 'dist\\.htaccess' -DestinationPath 'deploy-to-cpanel.zip' -Force\""
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",

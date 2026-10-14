@@ -7,8 +7,15 @@ import Bras from '../components/Home/Bras'
 import Panties from '../components/Home/Panties'
 import WhyChooseUs from '../components/Home/WhyChooseUs'
 import Faqs from '../components/Home/Faqs'
+import useSEO from '../utils/useSEO'
 
 const Home = () => {
+  useSEO({
+    title: 'Buy Nighty Online in Pakistan | Ladies Nightwear & Lingerie',
+    description: 'Buy nighties online in Pakistan. Shop bridal nightwear, silk night suits, sexy babydoll sets, bras and panties with 100% discreet packaging and Cash on Delivery.',
+    canonical: 'https://hotnighties.pk/',
+  });
+
   return (
     <div>
       <Hero/>

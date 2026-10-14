@@ -1,8 +1,15 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { ShopContext } from '../context/ShopContext';
 import ProductCard from '../components/product/ProductCard';
+import useSEO from '../utils/useSEO';
 
 const Shop = () => {
+  useSEO({
+    title: 'Ladies Nightwear Online Shopping Pakistan | Nighties, Bras & Panties',
+    description: 'Ladies nightwear online shopping in Pakistan. Order silk nighties, bridal night dresses, lace babydolls, wire-free bras, and cotton panties. Fast delivery nationwide.',
+    canonical: 'https://hotnighties.pk/shop',
+  });
+
   const { products } = useContext(ShopContext);
 
   const [filterProducts, setFilterProducts] = useState([]);

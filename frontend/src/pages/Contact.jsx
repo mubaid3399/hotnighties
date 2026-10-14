@@ -1,5 +1,12 @@
+import useSEO from '../utils/useSEO';
 
 const Contact = () => {
+  useSEO({
+    title: 'Contact Us | Customer Support',
+    description: 'Get in touch with Hotnighties customer support. Chat on WhatsApp at 0306 5363744 or email Help@hotnighties.pk for order inquiries and sizing assistance.',
+    canonical: 'https://hotnighties.pk/contact',
+  });
+
   return (
     <div className="w-full bg-white pb-20 pt-10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

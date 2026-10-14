@@ -11,79 +11,79 @@
 // ------------------------------------------------------------
 
 // --- Logo ---
-import logo from "./logo.png";
-import mobileLogo from "./mobile-logo.png";
+import logo from "./logo.webp";
+import mobileLogo from "./mobile-logo.webp";
 
 // --- Banner Images 
-import banner1 from './bannerimg01.jfif'
-import banner2 from './bannerimg02.jfif'
-import banner3 from './bannerimg03.jfif'
-import aboutImg from './about-hero-bold.jpg'
-import aboutSecondaryImg from './about-hero-erotic.jpg'
+import banner1 from './bannerimg01.webp'
+import banner2 from './bannerimg02.webp'
+import banner3 from './bannerimg03.webp'
+import aboutImg from './about-hero-bold.webp'
+import aboutSecondaryImg from './about-hero-erotic.webp'
 
 // --- Bras ---
-import braProduct1 from "./Adjustable Sports Bras for Women High Support Padded Racerback Sport for Large Bust Workout Running Gym.jpg";
-import braProduct2 from "./Anti-Sagging Seamless Bra for Beautiful Back, Minimizer for Large Bust, Wire-Free, Lifts and Prevents Sagging for Large Busts.jpg";
-import braProduct3 from "./Plus-size Brassiere Lady Wire-free Middle-aged Older Women's Underwear Three-row Hook Large Cup Girl Bra Full Coverage.jpg";
-import braProduct4 from "./Wholesale High Elasticity NakedFeel Seamless Sports Bra Women Fixed Molded Cup Yoga Bra Top Vest for Gym Running.jpg";
-import braProduct5 from "./Women's Glossy Underwear Solid Comfortable Seamless Thin Top Thick Bottom Small Chest Gathered  Sportsbra-1.png";
-import braProduct6 from "./Mesh Lace Hollow Sports Bra Running Fitness Sexy Backless Tops Pilates Yoga Wear for Women.avif";
+import braProduct1 from "./Adjustable Sports Bras for Women High Support Padded Racerback Sport for Large Bust Workout Running Gym.webp";
+import braProduct2 from "./Anti-Sagging Seamless Bra for Beautiful Back, Minimizer for Large Bust, Wire-Free, Lifts and Prevents Sagging for Large Busts.webp";
+import braProduct3 from "./Plus-size Brassiere Lady Wire-free Middle-aged Older Women's Underwear Three-row Hook Large Cup Girl Bra Full Coverage.webp";
+import braProduct4 from "./Wholesale High Elasticity NakedFeel Seamless Sports Bra Women Fixed Molded Cup Yoga Bra Top Vest for Gym Running.webp";
+import braProduct5 from "./Women's Glossy Underwear Solid Comfortable Seamless Thin Top Thick Bottom Small Chest Gathered  Sportsbra-1.webp";
+import braProduct6 from "./Mesh Lace Hollow Sports Bra Running Fitness Sexy Backless Tops Pilates Yoga Wear for Women.webp";
 
 // --- Panties ---
-import pantieProduct1 from "./Beautiful Style Sexy Red Color Women High Rise Thong Panty With Chain.avif";
-import pantieProduct2 from "./Bell Fenny Factory Wholesale Logo Label Custom Women Thongs V String Panties Seamless Soft Women Ice Silk Underwear.avif";
-import pantieProduct3 from "./Disposable Underwear Women's Portable Boxer Shorts 100 Bamboo Fiber Sterilized Large Size Anti-Exposure.avif";
-import pantieProduct4 from "./Factory Direct Wholesale Women Underwear Bulk Stock Lots Cotton Panties.avif";
-import pantieProduct5 from "./Fashion and Soft LADIES' BRIEFS.avif";
-import pantieProduct6 from "./High Waist Panty Women Panties Soft Stretch Cotton Briefs Tummy Control.avif";
-import pantieProduct7 from "./High-quality wholesale skin-friendly and breathable women's panties Close-fitting women's underwear.avif";
-import pantieProduct8 from "./LYNMISS Anti-Bacterial Culotte Menstruelle 4 Layer Period Underwear.avif";
-import pantieProduct9 from "./N Sexy Solid High-Rise Nylon Cotton Womens Panties for Yoga Fitness; XL.avif";
-import pantieProduct10 from "./Sexy Lace Floral Womens Panties International Trade Thin Sheer Low-rise Briefs Cotton Nylon Gusset.avif";
-import pantieProduct11 from "./Wholesale Cross-border Foreign Trade Large Plus Size Lace Briefs 2021high Waist Ladies Panties.avif";
-import pantieProduct12 from "./Wholesale Soft Pure Cotton Women Triangle Panties.avif";
-import pantieProduct13 from "./Wholesale Women's Low-Rise Seamless Ice Silk Underwear Breathable Triangle.avif";
-import pantieProduct14 from "./Women High Waisted Tummy Control Shapewear Panties.avif";
-import pantieProduct15 from "./Women Panties Lace Underwear 6 Colors Low Rise Wholesale.avif";
-import pantieProduct16 from "./Women's Cotton Panties Comfortable Skin Friendly Women's Underwear Soft Female.avif";
-import pantieProduct17 from "./Women's Panties Sexy Underwear High Stretch Transparent Silk Zipper Crotch Bottom Ladies Bikini Thong 5031.avif";
-import pantieProduct18 from "./Women's Shiny Rhinestone Lace Bikini Panties Ultra-Thin Low-Waisted Half-Covering.avif";
+import pantieProduct1 from "./Beautiful Style Sexy Red Color Women High Rise Thong Panty With Chain.webp";
+import pantieProduct2 from "./Bell Fenny Factory Wholesale Logo Label Custom Women Thongs V String Panties Seamless Soft Women Ice Silk Underwear.webp";
+import pantieProduct3 from "./Disposable Underwear Women's Portable Boxer Shorts 100 Bamboo Fiber Sterilized Large Size Anti-Exposure.webp";
+import pantieProduct4 from "./Factory Direct Wholesale Women Underwear Bulk Stock Lots Cotton Panties.webp";
+import pantieProduct5 from "./Fashion and Soft LADIES' BRIEFS.webp";
+import pantieProduct6 from "./High Waist Panty Women Panties Soft Stretch Cotton Briefs Tummy Control.webp";
+import pantieProduct7 from "./High-quality wholesale skin-friendly and breathable women's panties Close-fitting women's underwear.webp";
+import pantieProduct8 from "./LYNMISS Anti-Bacterial Culotte Menstruelle 4 Layer Period Underwear.webp";
+import pantieProduct9 from "./N Sexy Solid High-Rise Nylon Cotton Womens Panties for Yoga Fitness; XL.webp";
+import pantieProduct10 from "./Sexy Lace Floral Womens Panties International Trade Thin Sheer Low-rise Briefs Cotton Nylon Gusset.webp";
+import pantieProduct11 from "./Wholesale Cross-border Foreign Trade Large Plus Size Lace Briefs 2021high Waist Ladies Panties.webp";
+import pantieProduct12 from "./Wholesale Soft Pure Cotton Women Triangle Panties.webp";
+import pantieProduct13 from "./Wholesale Women's Low-Rise Seamless Ice Silk Underwear Breathable Triangle.webp";
+import pantieProduct14 from "./Women High Waisted Tummy Control Shapewear Panties.webp";
+import pantieProduct15 from "./Women Panties Lace Underwear 6 Colors Low Rise Wholesale.webp";
+import pantieProduct16 from "./Women's Cotton Panties Comfortable Skin Friendly Women's Underwear Soft Female.webp";
+import pantieProduct17 from "./Women's Panties Sexy Underwear High Stretch Transparent Silk Zipper Crotch Bottom Ladies Bikini Thong 5031.webp";
+import pantieProduct18 from "./Women's Shiny Rhinestone Lace Bikini Panties Ultra-Thin Low-Waisted Half-Covering.webp";
 // NOTE: the old "pantieProduct19" used the same image file as pantieProduct11
 // (a duplicate listing), so it has been removed.
 
 // --- Nighties & Sleepwear ---
-import nightieProduct1 from "./2024 New Good Quality Satin Nightie Wholesale Women's Robe 4 Pieces Pajamas Erotic Lingerie Set Kimono Silk Sleepwear.jpg";
-import nightieProduct2 from "./5PC Silk Robe Sleep Suit Womens Lace Satin Pajamas Gown Set V-Neck Cami Nighties Wear Pijama.jpg";
-import nightieProduct3 from "./Best Selling Products 2025 Lace Nightwear Women Sleepwear.jpg";
-import nightieProduct4 from "./Butterfly Backless Pajamas Sleepwear Women Pajama Sexy Nighty for Honeymoon.avif";
-import nightieProduct5 from "./Cheap Women's Sexy Lounge Wear Love Heart Print Halter Shorts Pajamas Set Casual.jpg";
-import nightieProduct6 from "./Embroidery Ladies Night Lace Sexy Dress Pijama Women Underwear Sleepwear.avif";
-import nightieProduct7 from "./FASHION LADIES' NIGHTIE.png";
-import nightieProduct8 from "./Factory Price Wholesale Long Dress Luxury Lace Sleepwear Sexy Lingerie Women Night Dress.jpg";
-import nightieProduct9 from "./High Quality Summer Sexy White Pyjamas Heart Print Cami.avif";
-import nightieProduct10 from "./Hot Romantic Nightie for Ladies.jpg";
-import nightieProduct11 from "./Hot Sale Floral Snap Crotch Teddy Chemise Nightie Women's Sexy Gauze See-Through Pajama.jpg";
-import nightieProduct12 from "./Hot Sale Floral Snap Crotch Teddy Chemise Nightie Women's Sexy Gauze.jpg";
-import nightieProduct13 from "./Hot Selling European and American Camisole Pajamas for Women.avif";
-import nightieProduct14 from "./Lace Night Dresses for Woman Plus Size Women's Sleepwear Evening Dresses.avif";
-import nightieProduct15 from "./M0605 Lace Bow See Through Embroidery Lingerie Women Sleepwear Bodysuit Pajamas.jpg";
-import nightieProduct16 from "./New Good Quality Satin Nightie Wholesale Women's Robe 4 Pieces Pajamas Erotic Lingerie Set Kimono Silk Sleepwear.jpg";
-import nightieProduct17 from "./New Product Ideas 2024 Plus Size Girls Sleepwears Ladies Sexy Nighties Women's.jpg";
-import nightieProduct18 from "./New Satin Nightdress Contrast Lace V-neck Chemise Dress Erotic Backless Nightie.jpg";
-import nightieProduct19 from "./OEM Women's Sexy Silk Nightgown Lace Sling Sleepwear Dress Elegant Lingerie Night Dress.avif";
-import nightieProduct20 from "./P093 Wholesale Sexy Lingerie Silk Stain Lace Mature Nightie 3pcs Homewear Set Women Sleepwear.jpg";
-import nightieProduct21 from "./Plus Size Lingerie Deep V Strap Nightdress Three-Piece Set Sexy Transparent Sleepwear Uniform Temptation Wholesale.png";
-import nightieProduct22 from "./Sexy Hot Night Dress.avif";
-import nightieProduct23 from "./Sexy Sleepwear Pajamas Lingerie.avif";
-import nightieProduct24 from "./Sexy Women's Sleepwear Night Gowns Sleep Dress Lace Sexy Night Dress.avif";
-import nightieProduct25 from "./Wholesale 5pcs Plus Size Night Gowns Sexy Sleepwear.jpg";
-import nightieProduct26 from "./Wholesale Women Lace-Trimmed Loungewear Girl Night Wear Set Nighty.jpg";
-import nightieProduct27 from "./Women Nighty for Sex Ladies Nighties Sleepwear.jpg";
-import nightieProduct28 from "./Women Sex Attraction Lace Perspective Lingerie Sexy Night Dress for Hot Sex.jpg";
-import nightieProduct29 from "./Women's Sexy Nighties Hot Selling Satin Pajamas Full Slip Babydoll Suspender Nightwear.png";
-import nightieProduct30 from "./Women's Sleepwear Underwear Transparent Sexy Lace Lingerie Pijamas Sets Nightdress and Panty Female Nighty Clothes Party Gift.avif";
-import nightieProduct31 from "./Womens Pajamas Nighty for Ladies Sexy Hot Robe Sexy Satin.jpg";
-import nightieProduct32 from "./sexy sleeperwear lingerie.avif";
+import nightieProduct1 from "./2024 New Good Quality Satin Nightie Wholesale Women's Robe 4 Pieces Pajamas Erotic Lingerie Set Kimono Silk Sleepwear.webp";
+import nightieProduct2 from "./5PC Silk Robe Sleep Suit Womens Lace Satin Pajamas Gown Set V-Neck Cami Nighties Wear Pijama.webp";
+import nightieProduct3 from "./Best Selling Products 2025 Lace Nightwear Women Sleepwear.webp";
+import nightieProduct4 from "./Butterfly Backless Pajamas Sleepwear Women Pajama Sexy Nighty for Honeymoon.webp";
+import nightieProduct5 from "./Cheap Women's Sexy Lounge Wear Love Heart Print Halter Shorts Pajamas Set Casual.webp";
+import nightieProduct6 from "./Embroidery Ladies Night Lace Sexy Dress Pijama Women Underwear Sleepwear.webp";
+import nightieProduct7 from "./FASHION LADIES' NIGHTIE.webp";
+import nightieProduct8 from "./Factory Price Wholesale Long Dress Luxury Lace Sleepwear Sexy Lingerie Women Night Dress.webp";
+import nightieProduct9 from "./High Quality Summer Sexy White Pyjamas Heart Print Cami.webp";
+import nightieProduct10 from "./Hot Romantic Nightie for Ladies.webp";
+import nightieProduct11 from "./Hot Sale Floral Snap Crotch Teddy Chemise Nightie Women's Sexy Gauze See-Through Pajama.webp";
+import nightieProduct12 from "./Hot Sale Floral Snap Crotch Teddy Chemise Nightie Women's Sexy Gauze.webp";
+import nightieProduct13 from "./Hot Selling European and American Camisole Pajamas for Women.webp";
+import nightieProduct14 from "./Lace Night Dresses for Woman Plus Size Women's Sleepwear Evening Dresses.webp";
+import nightieProduct15 from "./M0605 Lace Bow See Through Embroidery Lingerie Women Sleepwear Bodysuit Pajamas.webp";
+import nightieProduct16 from "./New Good Quality Satin Nightie Wholesale Women's Robe 4 Pieces Pajamas Erotic Lingerie Set Kimono Silk Sleepwear.webp";
+import nightieProduct17 from "./New Product Ideas 2024 Plus Size Girls Sleepwears Ladies Sexy Nighties Women's.webp";
+import nightieProduct18 from "./New Satin Nightdress Contrast Lace V-neck Chemise Dress Erotic Backless Nightie.webp";
+import nightieProduct19 from "./OEM Women's Sexy Silk Nightgown Lace Sling Sleepwear Dress Elegant Lingerie Night Dress.webp";
+import nightieProduct20 from "./P093 Wholesale Sexy Lingerie Silk Stain Lace Mature Nightie 3pcs Homewear Set Women Sleepwear.webp";
+import nightieProduct21 from "./Plus Size Lingerie Deep V Strap Nightdress Three-Piece Set Sexy Transparent Sleepwear Uniform Temptation Wholesale.webp";
+import nightieProduct22 from "./Sexy Hot Night Dress.webp";
+import nightieProduct23 from "./Sexy Sleepwear Pajamas Lingerie.webp";
+import nightieProduct24 from "./Sexy Women's Sleepwear Night Gowns Sleep Dress Lace Sexy Night Dress.webp";
+import nightieProduct25 from "./Wholesale 5pcs Plus Size Night Gowns Sexy Sleepwear.webp";
+import nightieProduct26 from "./Wholesale Women Lace-Trimmed Loungewear Girl Night Wear Set Nighty.webp";
+import nightieProduct27 from "./Women Nighty for Sex Ladies Nighties Sleepwear.webp";
+import nightieProduct28 from "./Women Sex Attraction Lace Perspective Lingerie Sexy Night Dress for Hot Sex.webp";
+import nightieProduct29 from "./Women's Sexy Nighties Hot Selling Satin Pajamas Full Slip Babydoll Suspender Nightwear.webp";
+import nightieProduct30 from "./Women's Sleepwear Underwear Transparent Sexy Lace Lingerie Pijamas Sets Nightdress and Panty Female Nighty Clothes Party Gift.webp";
+import nightieProduct31 from "./Womens Pajamas Nighty for Ladies Sexy Hot Robe Sexy Satin.webp";
+import nightieProduct32 from "./sexy sleeperwear lingerie.webp";
 
 // ------------------------------------------------------------
 // 2. CATEGORY NAMES & HELPERS
