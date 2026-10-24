@@ -170,6 +170,7 @@ export const CATEGORY_SLEEPWEAR = "Women's Sleepwear";
 export const newProducts = [
   {
     id: "newProduct1",
+    slug: "exclusive-embroidered-bridal-lace-nighty",
     title: "Exclusive Embroidered Bridal Lace Nighty",
     description: "Radiate romantic charm in this exclusive embroidered bridal lace nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2400,
@@ -183,6 +184,7 @@ export const newProducts = [
   },
   {
     id: "newProduct2",
+    slug: "2-pcs-satin-short-night-dress-and-full-sleeves-robe",
     title: "2 Pcs Satin Short Night Dress & Full Sleeves Robe",
     description: "Step into sheer luxury with this flowing 2 pcs satin short night dress & full sleeves robe. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 2839,
@@ -196,6 +198,7 @@ export const newProducts = [
   },
   {
     id: "newProduct3",
+    slug: "2-pcs-sexy-short-nighty-midnight-black",
     title: "2 Pcs Sexy Short Nighty - Midnight Black",
     description: "Radiate romantic charm in this 2 pcs sexy short nighty - midnight black. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2458,
@@ -209,6 +212,7 @@ export const newProducts = [
   },
   {
     id: "newProduct4",
+    slug: "2-pcs-sexy-short-satin-nighty-with-matching-panty",
     title: "2 Pcs Sexy Short Satin Nighty with Matching Panty",
     description: "Feel fresh and comfortable all day with this 2 pcs sexy short satin nighty with matching panty. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 963,
@@ -222,6 +226,7 @@ export const newProducts = [
   },
   {
     id: "newProduct5",
+    slug: "2-pcs-sexy-short-nighty",
     title: "2 Pcs Sexy Short Nighty",
     description: "Radiate romantic charm in this 2 pcs sexy short nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2516,
@@ -235,6 +240,7 @@ export const newProducts = [
   },
   {
     id: "newProduct6",
+    slug: "luxury-floral-printed-night-gown-and-robe-set",
     title: "Luxury Floral Printed Night Gown & Robe Set",
     description: "Step into sheer luxury with this flowing luxury floral printed night gown & robe set. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 2995,
@@ -248,6 +254,7 @@ export const newProducts = [
   },
   {
     id: "newProduct7",
+    slug: "classic-elegant-satin-silk-night-gown",
     title: "Classic Elegant Satin Silk Night Gown",
     description: "Step into sheer luxury with this flowing classic elegant satin silk night gown. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3034,
@@ -261,6 +268,7 @@ export const newProducts = [
   },
   {
     id: "newProduct8",
+    slug: "ladies-delicate-floral-lace-sexy-panty",
     title: "Ladies Delicate Floral Lace Sexy Panty",
     description: "Feel fresh and comfortable all day with this ladies delicate floral lace sexy panty. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1047,
@@ -274,6 +282,7 @@ export const newProducts = [
   },
   {
     id: "newProduct9",
+    slug: "3-pcs-romantic-lace-short-nighty-set",
     title: "3 Pcs Romantic Lace Short Nighty Set",
     description: "Radiate romantic charm in this 3 pcs romantic lace short nighty set. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2632,
@@ -287,6 +296,7 @@ export const newProducts = [
   },
   {
     id: "newProduct10",
+    slug: "3-pcs-sexy-silk-short-nighty-with-matching-gown-rose",
     title: "3 Pcs Sexy Silk Short Nighty with Matching Gown - Rose",
     description: "Step into sheer luxury with this flowing 3 pcs sexy silk short nighty with matching gown - rose. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3151,
@@ -300,6 +310,7 @@ export const newProducts = [
   },
   {
     id: "newProduct11",
+    slug: "3-pcs-sexy-silk-short-nighty-with-matching-gown-wine",
     title: "3 Pcs Sexy Silk Short Nighty with Matching Gown - Wine",
     description: "Step into sheer luxury with this flowing 3 pcs sexy silk short nighty with matching gown - wine. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3190,
@@ -313,6 +324,7 @@ export const newProducts = [
   },
   {
     id: "newProduct12",
+    slug: "3-pcs-silk-ladies-nightwear-robe-and-cami-set-pearl-grey",
     title: "3 Pcs Silk Ladies Nightwear Robe & Cami Set - Pearl Grey",
     description: "Radiate romantic charm in this 3 pcs silk ladies nightwear robe & cami set - pearl grey. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2719,
@@ -326,6 +338,7 @@ export const newProducts = [
   },
   {
     id: "newProduct13",
+    slug: "soft-stretch-cotton-regular-comfort-panty",
     title: "Soft Stretch Cotton Regular Comfort Panty",
     description: "Feel fresh and comfortable all day with this soft stretch cotton regular comfort panty. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1152,
@@ -339,6 +352,7 @@ export const newProducts = [
   },
   {
     id: "newProduct14",
+    slug: "nautical-anchor-and-wheel-printed-2-piece-bikini-set",
     title: "Nautical Anchor & Wheel Printed 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning nautical anchor & wheel printed 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2177,
@@ -352,6 +366,7 @@ export const newProducts = [
   },
   {
     id: "newProduct15",
+    slug: "wild-animal-print-silk-2-piece-bikini-set",
     title: "Wild Animal Print Silk 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning wild animal print silk 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2206,
@@ -365,6 +380,7 @@ export const newProducts = [
   },
   {
     id: "newProduct16",
+    slug: "beauty-elegant-sheer-tights-for-women",
     title: "Beauty Elegant Sheer Tights for Women",
     description: "Elevate any ensemble with these beauty elegant sheer tights for women. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1745,
@@ -378,6 +394,7 @@ export const newProducts = [
   },
   {
     id: "newProduct17",
+    slug: "beileisi-swiss-dotted-sheer-leg-stockings",
     title: "Beileisi Swiss Dotted Sheer Leg Stockings",
     description: "Elevate any ensemble with these beileisi swiss dotted sheer leg stockings. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1768,
@@ -391,6 +408,7 @@ export const newProducts = [
   },
   {
     id: "newProduct18",
+    slug: "black-and-white-textured-contrast-2-piece-bikini-set",
     title: "Black & White Textured Contrast 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning black & white textured contrast 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2293,
@@ -404,6 +422,7 @@ export const newProducts = [
   },
   {
     id: "newProduct19",
+    slug: "classic-black-and-white-triangle-string-bikini-set",
     title: "Classic Black & White Triangle String Bikini Set",
     description: "Embrace bold allure with this stunning classic black & white triangle string bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2322,
@@ -417,6 +436,7 @@ export const newProducts = [
   },
   {
     id: "newProduct20",
+    slug: "black-butterfly-single-padded-string-bikini-set",
     title: "Black Butterfly Single-Padded String Bikini Set",
     description: "Embrace bold allure with this stunning black butterfly single-padded string bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2351,
@@ -430,6 +450,7 @@ export const newProducts = [
   },
   {
     id: "newProduct21",
+    slug: "black-kiss-printed-single-padded-bra-panty-set",
     title: "Black Kiss Printed Single-Padded Bra Panty Set",
     description: "Complete your intimates collection with this coordinated black kiss printed single-padded bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 3260,
@@ -443,6 +464,7 @@ export const newProducts = [
   },
   {
     id: "newProduct22",
+    slug: "black-polka-dotted-push-up-bra-panty-set",
     title: "Black Polka Dotted Push-Up Bra Panty Set",
     description: "Complete your intimates collection with this coordinated black polka dotted push-up bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 3303,
@@ -456,6 +478,7 @@ export const newProducts = [
   },
   {
     id: "newProduct23",
+    slug: "black-polyester-satin-button-up-nightsuit-set",
     title: "Black Polyester Satin Button-Up Nightsuit Set",
     description: "Unwind in pure comfort with this black polyester satin button-up nightsuit set. Featuring relaxed tailoring, breathable fabric, and a flexible waistband designed for cozy lounge weekends and peaceful nights.",
     actualPrice: 2882,
@@ -469,6 +492,7 @@ export const newProducts = [
   },
   {
     id: "newProduct24",
+    slug: "kelitha-italian-non-padded-non-wired-wedding-bra-black",
     title: "Kelitha Italian Non-Padded Non-Wired Wedding Bra - Black",
     description: "Discover effortless everyday support with this kelitha italian non-padded non-wired wedding bra - black. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 2259,
@@ -482,6 +506,7 @@ export const newProducts = [
   },
   {
     id: "newProduct25",
+    slug: "sky-blue-checkered-cotton-lounge-pajama-for-women",
     title: "Sky Blue Checkered Cotton Lounge Pajama For Women",
     description: "Unwind in pure comfort with this sky blue checkered cotton lounge pajama for women. Featuring relaxed tailoring, breathable fabric, and a flexible waistband designed for cozy lounge weekends and peaceful nights.",
     actualPrice: 2944,
@@ -495,6 +520,7 @@ export const newProducts = [
   },
   {
     id: "newProduct26",
+    slug: "blue-polka-dotted-cotton-bra-panty-set",
     title: "Blue Polka Dotted Cotton Bra Panty Set",
     description: "Complete your intimates collection with this coordinated blue polka dotted cotton bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2475,
@@ -508,6 +534,7 @@ export const newProducts = [
   },
   {
     id: "newProduct27",
+    slug: "body-care-slim-and-sleek-high-waist-seamless-body-shaper",
     title: "Body Care Slim & Sleek High-Waist Seamless Body Shaper",
     description: "Sculpt and contour your natural silhouette with this body care slim & sleek high-waist seamless body shaper. Offers targeted compression with flexible support zones that smooth your waistline while remaining comfortably wearable all day.",
     actualPrice: 2762,
@@ -521,6 +548,7 @@ export const newProducts = [
   },
   {
     id: "newProduct28",
+    slug: "body-care-firm-control-corset-high-waist-shaper-suit",
     title: "Body Care Firm Control Corset High-Waist Shaper Suit",
     description: "Sculpt and contour your natural silhouette with this body care firm control corset high-waist shaper suit. Offers targeted compression with flexible support zones that smooth your waistline while remaining comfortably wearable all day.",
     actualPrice: 2799,
@@ -534,6 +562,7 @@ export const newProducts = [
   },
   {
     id: "newProduct29",
+    slug: "bombshell-deep-v-short-romantic-nighty",
     title: "Bombshell Deep-V Short Romantic Nighty",
     description: "Radiate romantic charm in this bombshell deep-v short romantic nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3212,
@@ -547,6 +576,7 @@ export const newProducts = [
   },
   {
     id: "newProduct30",
+    slug: "delicate-butterfly-print-2-piece-bikini-set",
     title: "Delicate Butterfly Print 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning delicate butterfly print 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 1941,
@@ -560,6 +590,7 @@ export const newProducts = [
   },
   {
     id: "newProduct31",
+    slug: "cheetah-animal-print-satin-short-nighty",
     title: "Cheetah Animal Print Satin Short Nighty",
     description: "Radiate romantic charm in this cheetah animal print satin short nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3270,
@@ -573,6 +604,7 @@ export const newProducts = [
   },
   {
     id: "newProduct32",
+    slug: "classic-translucent-floral-tattoo-sheer-tights",
     title: "Classic Translucent Floral Tattoo Sheer Tights",
     description: "Elevate any ensemble with these classic translucent floral tattoo sheer tights. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1613,
@@ -586,6 +618,7 @@ export const newProducts = [
   },
   {
     id: "newProduct33",
+    slug: "czd-spring-butterfly-sheer-net-bodystocking",
     title: "CZD Spring Butterfly Sheer Net Bodystocking",
     description: "Exude sensual glamour with this intricate czd spring butterfly sheer net bodystocking. Woven from ultra-elastic micro-mesh that hugs your natural curves like a second skin while ensuring breathable, flexible comfort.",
     actualPrice: 2135,
@@ -599,6 +632,7 @@ export const newProducts = [
   },
   {
     id: "newProduct34",
+    slug: "dark-red-silk-2-piece-robe-and-chemise-bridal-set",
     title: "Dark Red Silk 2-Piece Robe & Chemise Bridal Set",
     description: "Step into sheer luxury with this flowing dark red silk 2-piece robe & chemise bridal set. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 2887,
@@ -612,6 +646,7 @@ export const newProducts = [
   },
   {
     id: "newProduct35",
+    slug: "divine-paridhaan-short-romantic-nighty-crimson",
     title: "Divine Paridhaan Short Romantic Nighty - Crimson",
     description: "Radiate romantic charm in this divine paridhaan short romantic nighty - crimson. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2486,
@@ -625,6 +660,7 @@ export const newProducts = [
   },
   {
     id: "newProduct36",
+    slug: "divine-paridhaan-short-romantic-nighty-blush",
     title: "Divine Paridhaan Short Romantic Nighty - Blush",
     description: "Radiate romantic charm in this divine paridhaan short romantic nighty - blush. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2515,
@@ -638,6 +674,7 @@ export const newProducts = [
   },
   {
     id: "newProduct37",
+    slug: "dream-girl-sheer-lace-thigh-high-stockings",
     title: "Dream Girl Sheer Lace Thigh-High Stockings",
     description: "Elevate any ensemble with these dream girl sheer lace thigh-high stockings. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1728,
@@ -651,6 +688,7 @@ export const newProducts = [
   },
   {
     id: "newProduct38",
+    slug: "fancy-violet-net-lace-2-piece-bikini-set",
     title: "Fancy Violet Net Lace 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning fancy violet net lace 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2173,
@@ -664,6 +702,7 @@ export const newProducts = [
   },
   {
     id: "newProduct39",
+    slug: "fancy-short-romantic-nighty-for-women",
     title: "Fancy Short Romantic Nighty For Women",
     description: "Radiate romantic charm in this fancy short romantic nighty for women. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2602,
@@ -677,6 +716,7 @@ export const newProducts = [
   },
   {
     id: "newProduct40",
+    slug: "fashigo-satin-short-romantic-nighty",
     title: "Fashigo Satin Short Romantic Nighty",
     description: "Radiate romantic charm in this fashigo satin short romantic nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2631,
@@ -690,6 +730,7 @@ export const newProducts = [
   },
   {
     id: "newProduct41",
+    slug: "firm-control-traditional-full-briefs",
     title: "Firm Control Traditional Full Briefs",
     description: "Feel fresh and comfortable all day with this firm control traditional full briefs. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1040,
@@ -703,6 +744,7 @@ export const newProducts = [
   },
   {
     id: "newProduct42",
+    slug: "funky-peace-printed-casual-cotton-camisole",
     title: "Funky Peace Printed Casual Cotton Camisole",
     description: "Crafted for supreme softness, this funky peace printed casual cotton camisole is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1707,
@@ -716,6 +758,7 @@ export const newProducts = [
   },
   {
     id: "newProduct43",
+    slug: "tropical-green-palm-tree-printed-bikini-set",
     title: "Tropical Green Palm Tree Printed Bikini Set",
     description: "Embrace bold allure with this stunning tropical green palm tree printed bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2318,
@@ -729,6 +772,7 @@ export const newProducts = [
   },
   {
     id: "newProduct44",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-midnight-black",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Midnight Black",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - midnight black. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3277,
@@ -742,6 +786,7 @@ export const newProducts = [
   },
   {
     id: "newProduct45",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-mocha-brown",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Mocha Brown",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - mocha brown. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3316,
@@ -755,6 +800,7 @@ export const newProducts = [
   },
   {
     id: "newProduct46",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-dark-ruby",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Dark Ruby",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - dark ruby. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3355,
@@ -768,6 +814,7 @@ export const newProducts = [
   },
   {
     id: "newProduct47",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-warm-ivory",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Warm Ivory",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - warm ivory. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3394,
@@ -781,6 +828,7 @@ export const newProducts = [
   },
   {
     id: "newProduct48",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-navy-blue",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Navy Blue",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - navy blue. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3433,
@@ -794,6 +842,7 @@ export const newProducts = [
   },
   {
     id: "newProduct49",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-pistachio-green",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Pistachio Green",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - pistachio green. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3472,
@@ -807,6 +856,7 @@ export const newProducts = [
   },
   {
     id: "newProduct50",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-powder-pink",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Powder Pink",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - powder pink. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3511,
@@ -820,6 +870,7 @@ export const newProducts = [
   },
   {
     id: "newProduct51",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-royal-blue",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Royal Blue",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - royal blue. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3550,
@@ -833,6 +884,7 @@ export const newProducts = [
   },
   {
     id: "newProduct52",
+    slug: "luxury-satin-silk-night-gown-with-lace-trim-ruby-red",
     title: "Luxury Satin Silk Night Gown with Lace Trim - Ruby Red",
     description: "Step into sheer luxury with this flowing luxury satin silk night gown with lace trim - ruby red. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3589,
@@ -846,6 +898,7 @@ export const newProducts = [
   },
   {
     id: "newProduct53",
+    slug: "hkmeair-kastoori-floral-net-bodystocking-model-8020",
     title: "Hkmeair Kastoori Floral Net Bodystocking (Model 8020)",
     description: "Elevate any ensemble with these hkmeair kastoori floral net bodystocking (model 8020). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1596,
@@ -859,6 +912,7 @@ export const newProducts = [
   },
   {
     id: "newProduct54",
+    slug: "hkmeair-khushi-patterned-net-bodystocking-model-8035",
     title: "Hkmeair Khushi Patterned Net Bodystocking (Model 8035)",
     description: "Elevate any ensemble with these hkmeair khushi patterned net bodystocking (model 8035). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1619,
@@ -872,6 +926,7 @@ export const newProducts = [
   },
   {
     id: "newProduct55",
+    slug: "hkmeair-khushi-intricate-net-bodystocking-model-8908",
     title: "Hkmeair Khushi Intricate Net Bodystocking (Model 8908)",
     description: "Elevate any ensemble with these hkmeair khushi intricate net bodystocking (model 8908). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1642,
@@ -885,6 +940,7 @@ export const newProducts = [
   },
   {
     id: "newProduct56",
+    slug: "hkmeair-khushi-diamond-net-bodystocking-model-8940",
     title: "Hkmeair Khushi Diamond Net Bodystocking (Model 8940)",
     description: "Elevate any ensemble with these hkmeair khushi diamond net bodystocking (model 8940). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1665,
@@ -898,6 +954,7 @@ export const newProducts = [
   },
   {
     id: "newProduct57",
+    slug: "hkmeair-khushi-temptation-net-bodystocking-model-h8265",
     title: "Hkmeair Khushi Temptation Net Bodystocking (Model H8265)",
     description: "Elevate any ensemble with these hkmeair khushi temptation net bodystocking (model h8265). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1688,
@@ -911,6 +968,7 @@ export const newProducts = [
   },
   {
     id: "newProduct58",
+    slug: "hkmeair-khushi-temptation-net-bodystocking-model-h8266",
     title: "Hkmeair Khushi Temptation Net Bodystocking (Model H8266)",
     description: "Elevate any ensemble with these hkmeair khushi temptation net bodystocking (model h8266). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1711,
@@ -924,6 +982,7 @@ export const newProducts = [
   },
   {
     id: "newProduct59",
+    slug: "hkmeair-khushi-floral-net-bodystocking",
     title: "Hkmeair Khushi Floral Net Bodystocking",
     description: "Elevate any ensemble with these hkmeair khushi floral net bodystocking. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1734,
@@ -937,6 +996,7 @@ export const newProducts = [
   },
   {
     id: "newProduct60",
+    slug: "hkmeair-alluring-crotchless-net-bodystocking-model-8005",
     title: "Hkmeair Alluring Crotchless Net Bodystocking (Model 8005)",
     description: "Elevate any ensemble with these hkmeair alluring crotchless net bodystocking (model 8005). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1757,
@@ -950,6 +1010,7 @@ export const newProducts = [
   },
   {
     id: "newProduct61",
+    slug: "hkmeair-seductive-open-weave-net-bodystocking-model-8069",
     title: "Hkmeair Seductive Open-Weave Net Bodystocking (Model 8069)",
     description: "Elevate any ensemble with these hkmeair seductive open-weave net bodystocking (model 8069). Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1780,
@@ -963,6 +1024,7 @@ export const newProducts = [
   },
   {
     id: "newProduct62",
+    slug: "honeymoon-short-romantic-nighty-for-woman",
     title: "Honeymoon Short Romantic Nighty For woman",
     description: "Radiate romantic charm in this honeymoon short romantic nighty for woman. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3269,
@@ -976,6 +1038,7 @@ export const newProducts = [
   },
   {
     id: "newProduct63",
+    slug: "honeymoon-short-romantic-nighty-for-women",
     title: "Honeymoon Short Romantic Nighty For Women",
     description: "Radiate romantic charm in this honeymoon short romantic nighty for women. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3298,
@@ -989,6 +1052,7 @@ export const newProducts = [
   },
   {
     id: "newProduct64",
+    slug: "honeymoon-short-romantic-net-nighty",
     title: "Honeymoon Short Romantic Net Nighty",
     description: "Radiate romantic charm in this honeymoon short romantic net nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2427,
@@ -1002,6 +1066,7 @@ export const newProducts = [
   },
   {
     id: "newProduct65",
+    slug: "hot-and-seductive-floor-length-sheer-net-nighty",
     title: "Hot & Seductive Floor-Length Sheer Net Nighty",
     description: "Radiate romantic charm in this hot & seductive floor-length sheer net nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2456,
@@ -1015,6 +1080,7 @@ export const newProducts = [
   },
   {
     id: "newProduct66",
+    slug: "bridal-fancy-lace-sheer-thong-panty-crimson-floral",
     title: "Bridal Fancy Lace Sheer Thong Panty - Crimson Floral",
     description: "Feel fresh and comfortable all day with this bridal fancy lace sheer thong panty - crimson floral. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1565,
@@ -1028,6 +1094,7 @@ export const newProducts = [
   },
   {
     id: "newProduct67",
+    slug: "bridal-fancy-lace-sheer-thong-panty-rose-blossom",
     title: "Bridal Fancy Lace Sheer Thong Panty - Rose Blossom",
     description: "Feel fresh and comfortable all day with this bridal fancy lace sheer thong panty - rose blossom. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1586,
@@ -1041,6 +1108,7 @@ export const newProducts = [
   },
   {
     id: "newProduct68",
+    slug: "ivory-classic-short-silk-gown-with-sheer-accents",
     title: "Ivory Classic Short Silk Gown with Sheer Accents",
     description: "Step into sheer luxury with this flowing ivory classic short silk gown with sheer accents. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3013,
@@ -1054,6 +1122,7 @@ export const newProducts = [
   },
   {
     id: "newProduct69",
+    slug: "kimono-soft-terry-cotton-women-hooded-bathrobe",
     title: "Kimono Soft Terry Cotton Women Hooded Bathrobe",
     description: "Experience spa-like indulgence with this kimono soft terry cotton women hooded bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3716,
@@ -1067,6 +1136,7 @@ export const newProducts = [
   },
   {
     id: "newProduct70",
+    slug: "kimono-striped-terry-cotton-hooded-bathrobe",
     title: "Kimono Striped Terry Cotton Hooded Bathrobe",
     description: "Experience spa-like indulgence with this kimono striped terry cotton hooded bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3753,
@@ -1080,6 +1150,7 @@ export const newProducts = [
   },
   {
     id: "newProduct71",
+    slug: "ladies-targeted-belly-shaper-belt-with-zipper-closure",
     title: "Ladies Targeted Belly Shaper Belt with Zipper Closure",
     description: "Sculpt and contour your natural silhouette with this ladies targeted belly shaper belt with zipper closure. Offers targeted compression with flexible support zones that smooth your waistline while remaining comfortably wearable all day.",
     actualPrice: 2790,
@@ -1093,6 +1164,7 @@ export const newProducts = [
   },
   {
     id: "newProduct72",
+    slug: "luxury-white-terry-bathrobe-with-embroidered-trim",
     title: "Luxury White Terry Bathrobe with Embroidered Trim",
     description: "Experience spa-like indulgence with this luxury white terry bathrobe with embroidered trim. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3827,
@@ -1106,6 +1178,7 @@ export const newProducts = [
   },
   {
     id: "newProduct73",
+    slug: "flourish-maroon-satin-lace-nighty",
     title: "Flourish Maroon Satin Lace Nighty",
     description: "Radiate romantic charm in this flourish maroon satin lace nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2688,
@@ -1119,6 +1192,7 @@ export const newProducts = [
   },
   {
     id: "newProduct74",
+    slug: "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-black-091",
     title: "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Black (091)",
     description: "Step into sheer luxury with this flowing moongirl turkish bridal 2pc long nighty & robe set - black (091). Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3247,
@@ -1132,6 +1206,7 @@ export const newProducts = [
   },
   {
     id: "newProduct75",
+    slug: "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-ivory-091",
     title: "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Ivory (091)",
     description: "Step into sheer luxury with this flowing moongirl turkish bridal 2pc long nighty & robe set - ivory (091). Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3286,
@@ -1145,6 +1220,7 @@ export const newProducts = [
   },
   {
     id: "newProduct76",
+    slug: "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-champagne-092",
     title: "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Champagne (092)",
     description: "Step into sheer luxury with this flowing moongirl turkish bridal 2pc long nighty & robe set - champagne (092). Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3325,
@@ -1158,6 +1234,7 @@ export const newProducts = [
   },
   {
     id: "newProduct77",
+    slug: "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-2094",
     title: "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set (2094)",
     description: "Step into sheer luxury with this flowing moongirl turkish bridal 2pc long nighty & robe set (2094). Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3364,
@@ -1171,6 +1248,7 @@ export const newProducts = [
   },
   {
     id: "newProduct78",
+    slug: "multi-color-bohemian-triangle-bikini-set",
     title: "Multi-Color Bohemian Triangle Bikini Set",
     description: "Embrace bold allure with this stunning multi-color bohemian triangle bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 1933,
@@ -1184,6 +1262,7 @@ export const newProducts = [
   },
   {
     id: "newProduct79",
+    slug: "navy-blue-satin-sleeveless-night-dress",
     title: "Navy Blue Satin Sleeveless Night Dress",
     description: "Radiate romantic charm in this navy blue satin sleeveless night dress. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2862,
@@ -1197,6 +1276,7 @@ export const newProducts = [
   },
   {
     id: "newProduct80",
+    slug: "flourish-silky-lace-trim-short-nighty",
     title: "Flourish Silky Lace Trim Short Nighty",
     description: "Radiate romantic charm in this flourish silky lace trim short nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2891,
@@ -1210,6 +1290,7 @@ export const newProducts = [
   },
   {
     id: "newProduct81",
+    slug: "nurteks-turkish-honeymoon-2pc-long-nighty-and-robe-set-5192",
     title: "Nurteks Turkish Honeymoon 2Pc Long Nighty & Robe Set (5192)",
     description: "Step into sheer luxury with this flowing nurteks turkish honeymoon 2pc long nighty & robe set (5192). Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3520,
@@ -1223,6 +1304,7 @@ export const newProducts = [
   },
   {
     id: "newProduct82",
+    slug: "imported-thailand-breathable-camisole-tank-pack-of-2",
     title: "Imported Thailand Breathable Camisole Tank - Pack of 2",
     description: "Crafted for supreme softness, this imported thailand breathable camisole tank - pack of 2 is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1587,
@@ -1236,6 +1318,7 @@ export const newProducts = [
   },
   {
     id: "newProduct83",
+    slug: "madam-comfort-non-padded-non-wired-daily-bra-pack-of-2",
     title: "Madam Comfort Non-Padded Non-Wired Daily Bra - Pack of 2",
     description: "Discover effortless everyday support with this madam comfort non-padded non-wired daily bra - pack of 2. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 1506,
@@ -1249,6 +1332,7 @@ export const newProducts = [
   },
   {
     id: "newProduct84",
+    slug: "ultra-sexy-bikini-style-stretch-panties-pack-of-2",
     title: "Ultra-Sexy Bikini Style Stretch Panties - Pack of 2",
     description: "Embrace bold allure with this stunning ultra-sexy bikini style stretch panties - pack of 2. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2107,
@@ -1262,6 +1346,7 @@ export const newProducts = [
   },
   {
     id: "newProduct85",
+    slug: "designer-stocklot-bikini-top-swimwear-pack-of-2",
     title: "Designer Stocklot Bikini Top Swimwear - Pack of 2",
     description: "Embrace bold allure with this stunning designer stocklot bikini top swimwear - pack of 2. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2136,
@@ -1275,6 +1360,7 @@ export const newProducts = [
   },
   {
     id: "newProduct86",
+    slug: "ck-breathable-plain-cotton-panties-pack-of-3",
     title: "CK Breathable Plain Cotton Panties - Pack of 3",
     description: "Feel fresh and comfortable all day with this ck breathable plain cotton panties - pack of 3. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1285,
@@ -1288,6 +1374,7 @@ export const newProducts = [
   },
   {
     id: "newProduct87",
+    slug: "soft-cotton-lace-trimmed-daily-camisole-pack-of-3",
     title: "Soft Cotton Lace-Trimmed Daily Camisole - Pack of 3",
     description: "Crafted for supreme softness, this soft cotton lace-trimmed daily camisole - pack of 3 is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1722,
@@ -1301,6 +1388,7 @@ export const newProducts = [
   },
   {
     id: "newProduct88",
+    slug: "thailand-premium-stretch-camisole-tops-pack-of-3",
     title: "Thailand Premium Stretch Camisole Tops - Pack of 3",
     description: "Crafted for supreme softness, this thailand premium stretch camisole tops - pack of 3 is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1749,
@@ -1314,6 +1402,7 @@ export const newProducts = [
   },
   {
     id: "newProduct89",
+    slug: "ck-soft-stretchable-cotton-jersey-printed-panties-pack-of-3",
     title: "CK Soft Stretchable Cotton Jersey Printed Panties - Pack of 3",
     description: "Feel fresh and comfortable all day with this ck soft stretchable cotton jersey printed panties - pack of 3. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1348,
@@ -1327,6 +1416,7 @@ export const newProducts = [
   },
   {
     id: "newProduct90",
+    slug: "floral-printed-fancy-casual-wear-camisole-pack-of-3-design-b",
     title: "Floral Printed Fancy Casual Wear Camisole - Pack of 3 (Design B)",
     description: "Crafted for supreme softness, this floral printed fancy casual wear camisole - pack of 3 (design b) is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1203,
@@ -1340,6 +1430,7 @@ export const newProducts = [
   },
   {
     id: "newProduct91",
+    slug: "floral-printed-fancy-casual-wear-camisole-pack-of-3-design-a",
     title: "Floral Printed Fancy Casual Wear Camisole - Pack of 3 (Design A)",
     description: "Crafted for supreme softness, this floral printed fancy casual wear camisole - pack of 3 (design a) is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1230,
@@ -1353,6 +1444,7 @@ export const newProducts = [
   },
   {
     id: "newProduct92",
+    slug: "imported-branded-stocklot-bikini-top-bundle-pack-of-3",
     title: "Imported Branded Stocklot Bikini Top Bundle - Pack of 3",
     description: "Embrace bold allure with this stunning imported branded stocklot bikini top bundle - pack of 3. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2339,
@@ -1366,6 +1458,7 @@ export const newProducts = [
   },
   {
     id: "newProduct93",
+    slug: "soft-pure-cotton-plain-panties-mix-colors-pack-of-3",
     title: "Soft Pure Cotton Plain Panties Mix Colors - Pack of 3",
     description: "Feel fresh and comfortable all day with this soft pure cotton plain panties mix colors - pack of 3. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1432,
@@ -1379,6 +1472,7 @@ export const newProducts = [
   },
   {
     id: "newProduct94",
+    slug: "girls-colourful-stretch-cotton-camisole-tanks-pack-of-5",
     title: "Girls Colourful Stretch Cotton Camisole Tanks - Pack of 5",
     description: "Crafted for supreme softness, this girls colourful stretch cotton camisole tanks - pack of 5 is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1311,
@@ -1392,6 +1486,7 @@ export const newProducts = [
   },
   {
     id: "newProduct95",
+    slug: "womens-casual-cotton-printed-loungewear-pajama",
     title: "Women's Casual Cotton Printed Loungewear Pajama",
     description: "Unwind in pure comfort with this women's casual cotton printed loungewear pajama. Featuring relaxed tailoring, breathable fabric, and a flexible waistband designed for cozy lounge weekends and peaceful nights.",
     actualPrice: 2714,
@@ -1405,6 +1500,7 @@ export const newProducts = [
   },
   {
     id: "newProduct96",
+    slug: "pink-beauty-flattering-2-piece-bikini-set",
     title: "Pink Beauty Flattering 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning pink beauty flattering 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2455,
@@ -1418,6 +1514,7 @@ export const newProducts = [
   },
   {
     id: "newProduct97",
+    slug: "pink-polka-dotted-cross-single-padded-bra-panty-set",
     title: "Pink Polka Dotted Cross Single-Padded Bra Panty Set",
     description: "Complete your intimates collection with this coordinated pink polka dotted cross single-padded bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2528,
@@ -1431,6 +1528,7 @@ export const newProducts = [
   },
   {
     id: "newProduct98",
+    slug: "plain-fancy-soft-camisole-top-jet-black",
     title: "Plain Fancy Soft Camisole Top - Jet Black",
     description: "Crafted for supreme softness, this plain fancy soft camisole top - jet black is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1419,
@@ -1444,6 +1542,7 @@ export const newProducts = [
   },
   {
     id: "newProduct99",
+    slug: "plain-fancy-soft-camisole-top-blush-pink",
     title: "Plain Fancy Soft Camisole Top - Blush Pink",
     description: "Crafted for supreme softness, this plain fancy soft camisole top - blush pink is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1446,
@@ -1457,6 +1556,7 @@ export const newProducts = [
   },
   {
     id: "newProduct100",
+    slug: "plain-fancy-soft-camisole-top-sky-blue",
     title: "Plain Fancy Soft Camisole Top - Sky Blue",
     description: "Crafted for supreme softness, this plain fancy soft camisole top - sky blue is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1473,
@@ -1470,6 +1570,7 @@ export const newProducts = [
   },
   {
     id: "newProduct101",
+    slug: "premium-ultra-soft-beige-terry-cotton-bathrobe",
     title: "Premium Ultra-Soft Beige Terry Cotton Bathrobe",
     description: "Experience spa-like indulgence with this premium ultra-soft beige terry cotton bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3800,
@@ -1483,6 +1584,7 @@ export const newProducts = [
   },
   {
     id: "newProduct102",
+    slug: "spa-grade-premium-waffle-weave-cotton-bathrobe",
     title: "Spa Grade Premium Waffle Weave Cotton Bathrobe",
     description: "Experience spa-like indulgence with this spa grade premium waffle weave cotton bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3837,
@@ -1496,6 +1598,7 @@ export const newProducts = [
   },
   {
     id: "newProduct103",
+    slug: "premium-cotton-fabric-relaxed-fit-night-robe",
     title: "Premium Cotton Fabric Relaxed Fit Night Robe",
     description: "Step into sheer luxury with this flowing premium cotton fabric relaxed fit night robe. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3178,
@@ -1509,6 +1612,7 @@ export const newProducts = [
   },
   {
     id: "newProduct104",
+    slug: "prinstory-warm-fleece-ruffle-long-bathrobe",
     title: "PrinStory Warm Fleece Ruffle Long Bathrobe",
     description: "Experience spa-like indulgence with this prinstory warm fleece ruffle long bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 3911,
@@ -1522,6 +1626,7 @@ export const newProducts = [
   },
   {
     id: "newProduct105",
+    slug: "printed-stretch-jersey-pajama-tights-for-women",
     title: "Printed Stretch Jersey Pajama Tights For Women",
     description: "Elevate any ensemble with these printed stretch jersey pajama tights for women. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1792,
@@ -1535,6 +1640,7 @@ export const newProducts = [
   },
   {
     id: "newProduct106",
+    slug: "deep-purple-allure-2-piece-bikini-set",
     title: "Deep Purple Allure 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning deep purple allure 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2045,
@@ -1548,6 +1654,7 @@ export const newProducts = [
   },
   {
     id: "newProduct107",
+    slug: "red-and-black-checkered-flannel-lounge-pajama-for-women",
     title: "Red & Black Checkered Flannel Lounge Pajama For Women",
     description: "Unwind in pure comfort with this red & black checkered flannel lounge pajama for women. Featuring relaxed tailoring, breathable fabric, and a flexible waistband designed for cozy lounge weekends and peaceful nights.",
     actualPrice: 2286,
@@ -1561,6 +1668,7 @@ export const newProducts = [
   },
   {
     id: "newProduct108",
+    slug: "luxury-6pcs-bridal-nightwear-trunk-set-nighty-gown-cami-and-bikini-2077",
     title: "Luxury 6Pcs Bridal Nightwear Trunk Set - Nighty, Gown, Cami & Bikini (2077)",
     description: "Embrace bold allure with this stunning luxury 6pcs bridal nightwear trunk set - nighty, gown, cami & bikini (2077). Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2103,
@@ -1574,6 +1682,7 @@ export const newProducts = [
   },
   {
     id: "newProduct109",
+    slug: "romantic-sheer-lace-babydoll-short-nighty-style-b",
     title: "Romantic Sheer Lace Babydoll Short Nighty (Style B)",
     description: "Radiate romantic charm in this romantic sheer lace babydoll short nighty (style b). Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2832,
@@ -1587,6 +1696,7 @@ export const newProducts = [
   },
   {
     id: "newProduct110",
+    slug: "romantic-sheer-lace-babydoll-short-nighty-style-a",
     title: "Romantic Sheer Lace Babydoll Short Nighty (Style A)",
     description: "Radiate romantic charm in this romantic sheer lace babydoll short nighty (style a). Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2861,
@@ -1600,6 +1710,7 @@ export const newProducts = [
   },
   {
     id: "newProduct111",
+    slug: "sea-green-fusion-halter-bikini-set",
     title: "Sea Green Fusion Halter Bikini Set",
     description: "Embrace bold allure with this stunning sea green fusion halter bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2190,
@@ -1613,6 +1724,7 @@ export const newProducts = [
   },
   {
     id: "newProduct112",
+    slug: "seamless-front-open-sports-yoga-bra-and-panty-set",
     title: "Seamless Front-Open Sports Yoga Bra & Panty Set",
     description: "Discover effortless everyday support with this seamless front-open sports yoga bra & panty set. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 1563,
@@ -1626,6 +1738,7 @@ export const newProducts = [
   },
   {
     id: "newProduct113",
+    slug: "secret-possessions-lace-waist-cotton-brief-panties-pack-of-4",
     title: "Secret Possessions Lace Waist Cotton Brief Panties - Pack of 4",
     description: "Feel fresh and comfortable all day with this secret possessions lace waist cotton brief panties - pack of 4. Features ultra-soft breathable fabric, gentle elastic trim, and a smooth fit designed to prevent panty lines under any outfit.",
     actualPrice: 1152,
@@ -1639,6 +1752,7 @@ export const newProducts = [
   },
   {
     id: "newProduct114",
+    slug: "secret-treasure-push-up-t-shirt-bra-nude-skin",
     title: "Secret Treasure Push-Up T-Shirt Bra - Nude Skin",
     description: "Discover effortless everyday support with this secret treasure push-up t-shirt bra - nude skin. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 1629,
@@ -1652,6 +1766,7 @@ export const newProducts = [
   },
   {
     id: "newProduct115",
+    slug: "senslife-luxury-lace-short-romantic-nighty",
     title: "Senslife Luxury Lace Short Romantic Nighty",
     description: "Radiate romantic charm in this senslife luxury lace short romantic nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3006,
@@ -1665,6 +1780,7 @@ export const newProducts = [
   },
   {
     id: "newProduct116",
+    slug: "silky-padded-halter-bikini-set-jet-black",
     title: "Silky Padded Halter Bikini Set - Jet Black",
     description: "Embrace bold allure with this stunning silky padded halter bikini set - jet black. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2335,
@@ -1678,6 +1794,7 @@ export const newProducts = [
   },
   {
     id: "newProduct117",
+    slug: "silky-padded-halter-bikini-set-rich-maroon",
     title: "Silky Padded Halter Bikini Set - Rich Maroon",
     description: "Embrace bold allure with this stunning silky padded halter bikini set - rich maroon. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2364,
@@ -1691,6 +1808,7 @@ export const newProducts = [
   },
   {
     id: "newProduct118",
+    slug: "silky-padded-halter-bikini-set-crimson-red",
     title: "Silky Padded Halter Bikini Set - Crimson Red",
     description: "Embrace bold allure with this stunning silky padded halter bikini set - crimson red. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2393,
@@ -1704,6 +1822,7 @@ export const newProducts = [
   },
   {
     id: "newProduct119",
+    slug: "sexy-black-single-padded-lace-bikini-bra-panty-set",
     title: "Sexy Black Single-Padded Lace Bikini Bra Panty Set",
     description: "Complete your intimates collection with this coordinated sexy black single-padded lace bikini bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2658,
@@ -1717,6 +1836,7 @@ export const newProducts = [
   },
   {
     id: "newProduct120",
+    slug: "sexy-breathable-cotton-net-short-nighty",
     title: "Sexy Breathable Cotton Net Short Nighty",
     description: "Radiate romantic charm in this sexy breathable cotton net short nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3151,
@@ -1730,6 +1850,7 @@ export const newProducts = [
   },
   {
     id: "newProduct121",
+    slug: "intricate-geometric-net-bodystocking-hz8825",
     title: "Intricate Geometric Net Bodystocking HZ8825",
     description: "Elevate any ensemble with these intricate geometric net bodystocking hz8825. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1660,
@@ -1743,6 +1864,7 @@ export const newProducts = [
   },
   {
     id: "newProduct122",
+    slug: "alluring-short-romantic-lace-nighty",
     title: "Alluring Short Romantic Lace Nighty",
     description: "Radiate romantic charm in this alluring short romantic lace nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3209,
@@ -1756,6 +1878,7 @@ export const newProducts = [
   },
   {
     id: "newProduct123",
+    slug: "sexy-sheer-embroidered-net-bra-panty-set",
     title: "Sexy Sheer Embroidered Net Bra Panty Set",
     description: "Complete your intimates collection with this coordinated sexy sheer embroidered net bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2646,
@@ -1769,6 +1892,7 @@ export const newProducts = [
   },
   {
     id: "newProduct124",
+    slug: "transparent-lace-bikini-panty-with-silk-bow",
     title: "Transparent Lace Bikini Panty with Silk Bow",
     description: "Embrace bold allure with this stunning transparent lace bikini panty with silk bow. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 1867,
@@ -1782,6 +1906,7 @@ export const newProducts = [
   },
   {
     id: "newProduct125",
+    slug: "vibrant-shocking-pink-2-piece-bikini-set",
     title: "Vibrant Shocking Pink 2-Piece Bikini Set",
     description: "Embrace bold allure with this stunning vibrant shocking pink 2-piece bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 1896,
@@ -1795,6 +1920,7 @@ export const newProducts = [
   },
   {
     id: "newProduct126",
+    slug: "shopping-station-short-romantic-nighty-for-women-2014",
     title: "Shopping Station Short Romantic Nighty For Women - 2014",
     description: "Radiate romantic charm in this shopping station short romantic nighty for women - 2014. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2425,
@@ -1808,6 +1934,7 @@ export const newProducts = [
   },
   {
     id: "newProduct127",
+    slug: "shopping-station-silky-short-romantic-nighty",
     title: "Shopping Station Silky Short Romantic Nighty",
     description: "Radiate romantic charm in this shopping station silky short romantic nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2454,
@@ -1821,6 +1948,7 @@ export const newProducts = [
   },
   {
     id: "newProduct128",
+    slug: "black-satin-short-night-dress-with-full-sleeves-robe",
     title: "Black Satin Short Night Dress with Full Sleeves Robe",
     description: "Step into sheer luxury with this flowing black satin short night dress with full sleeves robe. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 2953,
@@ -1834,6 +1962,7 @@ export const newProducts = [
   },
   {
     id: "newProduct129",
+    slug: "classic-single-padded-everyday-bra-off-white",
     title: "Classic Single-Padded Everyday Bra - Off White",
     description: "Discover effortless everyday support with this classic single-padded everyday bra - off white. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 2124,
@@ -1847,6 +1976,7 @@ export const newProducts = [
   },
   {
     id: "newProduct130",
+    slug: "nude-skin-butterfly-single-padded-bikini-set",
     title: "Nude Skin Butterfly Single-Padded Bikini Set",
     description: "Embrace bold allure with this stunning nude skin butterfly single-padded bikini set. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2041,
@@ -1860,6 +1990,7 @@ export const newProducts = [
   },
   {
     id: "newProduct131",
+    slug: "sklu-fashion-patterned-sheer-pantyhose-leg-stockings",
     title: "SKLU Fashion Patterned Sheer Pantyhose Leg Stockings",
     description: "Elevate any ensemble with these sklu fashion patterned sheer pantyhose leg stockings. Featuring sheer, high-elasticity fiber with delicate detailing that flatters your legs with a flawless, radiant finish.",
     actualPrice: 1890,
@@ -1873,6 +2004,7 @@ export const newProducts = [
   },
   {
     id: "newProduct132",
+    slug: "solid-silk-pink-chemise-and-robe-with-delicate-lace-trim",
     title: "Solid Silk Pink Chemise & Robe with Delicate Lace Trim",
     description: "Step into sheer luxury with this flowing solid silk pink chemise & robe with delicate lace trim. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3109,
@@ -1886,6 +2018,7 @@ export const newProducts = [
   },
   {
     id: "newProduct133",
+    slug: "sweet-strawberry-print-bikini-set-candy-pink",
     title: "Sweet Strawberry Print Bikini Set - Candy Pink",
     description: "Embrace bold allure with this stunning sweet strawberry print bikini set - candy pink. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2128,
@@ -1899,6 +2032,7 @@ export const newProducts = [
   },
   {
     id: "newProduct134",
+    slug: "sweet-strawberry-print-bikini-set-sky-blue",
     title: "Sweet Strawberry Print Bikini Set - Sky Blue",
     description: "Embrace bold allure with this stunning sweet strawberry print bikini set - sky blue. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2157,
@@ -1912,6 +2046,7 @@ export const newProducts = [
   },
   {
     id: "newProduct135",
+    slug: "sweet-strawberry-print-bikini-set-pure-white",
     title: "Sweet Strawberry Print Bikini Set - Pure White",
     description: "Embrace bold allure with this stunning sweet strawberry print bikini set - pure white. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2186,
@@ -1925,6 +2060,7 @@ export const newProducts = [
   },
   {
     id: "newProduct136",
+    slug: "sweet-strawberry-print-bikini-set-sunny-yellow",
     title: "Sweet Strawberry Print Bikini Set - Sunny Yellow",
     description: "Embrace bold allure with this stunning sweet strawberry print bikini set - sunny yellow. Features lightweight, quick-drying stretch fabric with supportive cups and flattering contours, perfect for lounging in style and ultimate confidence.",
     actualPrice: 2215,
@@ -1938,6 +2074,7 @@ export const newProducts = [
   },
   {
     id: "newProduct137",
+    slug: "bridal-cheetah-print-single-padded-bra-panty-set",
     title: "Bridal Cheetah Print Single-Padded Bra Panty Set",
     description: "Complete your intimates collection with this coordinated bridal cheetah print single-padded bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 3248,
@@ -1951,6 +2088,7 @@ export const newProducts = [
   },
   {
     id: "newProduct138",
+    slug: "stylish-floral-printed-casual-camisole-top",
     title: "Stylish Floral Printed Casual Camisole Top",
     description: "Crafted for supreme softness, this stylish floral printed casual camisole top is an essential base layer or relaxed casual sleepwear piece. Features smooth breathable fabric, a delicate neckline, and non-chafing seams.",
     actualPrice: 1299,
@@ -1964,6 +2102,7 @@ export const newProducts = [
   },
   {
     id: "newProduct139",
+    slug: "stylish-white-long-nighty-with-pink-floral-print",
     title: "Stylish White Long Nighty with Pink Floral Print",
     description: "Radiate romantic charm in this stylish white long nighty with pink floral print. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 2802,
@@ -1977,6 +2116,7 @@ export const newProducts = [
   },
   {
     id: "newProduct140",
+    slug: "tkeshto-womens-breathable-cotton-tummy-tucker-model-2",
     title: "Tkeshto Women's Breathable Cotton Tummy Tucker (Model 2)",
     description: "Sculpt and contour your natural silhouette with this tkeshto women's breathable cotton tummy tucker (model 2). Offers targeted compression with flexible support zones that smooth your waistline while remaining comfortably wearable all day.",
     actualPrice: 2943,
@@ -1990,6 +2130,7 @@ export const newProducts = [
   },
   {
     id: "newProduct141",
+    slug: "tkeshto-womens-breathable-cotton-tummy-tucker-model-1",
     title: "Tkeshto Women's Breathable Cotton Tummy Tucker (Model 1)",
     description: "Sculpt and contour your natural silhouette with this tkeshto women's breathable cotton tummy tucker (model 1). Offers targeted compression with flexible support zones that smooth your waistline while remaining comfortably wearable all day.",
     actualPrice: 2980,
@@ -2003,6 +2144,7 @@ export const newProducts = [
   },
   {
     id: "newProduct142",
+    slug: "tulip-t-118-soft-breathable-cotton-everyday-bra",
     title: "Tulip T-118 Soft Breathable Cotton Everyday Bra",
     description: "Discover effortless everyday support with this tulip t-118 soft breathable cotton everyday bra. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 1653,
@@ -2016,6 +2158,7 @@ export const newProducts = [
   },
   {
     id: "newProduct143",
+    slug: "victorias-secret-style-double-padded-push-up-bra-panty-set",
     title: "Victoria's Secret Style Double-Padded Push-Up Bra Panty Set",
     description: "Complete your intimates collection with this coordinated victoria's secret style double-padded push-up bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2506,
@@ -2029,6 +2172,7 @@ export const newProducts = [
   },
   {
     id: "newProduct144",
+    slug: "victorias-secret-style-soft-padded-push-up-bra-panty-set",
     title: "Victoria's Secret Style Soft-Padded Push-Up Bra Panty Set",
     description: "Complete your intimates collection with this coordinated victoria's secret style soft-padded push-up bra panty set. Featuring delicately crafted cups paired with matching briefs, offering an exquisite balance of lift, comfort, and seductive elegance.",
     actualPrice: 2549,
@@ -2042,6 +2186,7 @@ export const newProducts = [
   },
   {
     id: "newProduct145",
+    slug: "white-satin-silk-gown-with-scalloped-floral-lace",
     title: "White Satin Silk Gown with Scalloped Floral Lace",
     description: "Step into sheer luxury with this flowing white satin silk gown with scalloped floral lace. Delicately detailed with exquisite trims and crafted from silky soft satin that cascades effortlessly for an enchanting nighttime silhouette.",
     actualPrice: 3616,
@@ -2055,6 +2200,7 @@ export const newProducts = [
   },
   {
     id: "newProduct146",
+    slug: "white-long-floral-printed-nighty-with-side-pocket",
     title: "White Long Floral Printed Nighty with Side Pocket",
     description: "Radiate romantic charm in this white long floral printed nighty with side pocket. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3005,
@@ -2068,6 +2214,7 @@ export const newProducts = [
   },
   {
     id: "newProduct147",
+    slug: "white-underwired-sheer-net-lace-bra",
     title: "White Underwired Sheer Net Lace Bra",
     description: "Discover effortless everyday support with this white underwired sheer net lace bra. Designed with soft cups, gentle underband reinforcement, and adjustable straps that keep you comfortable and confident from morning to night.",
     actualPrice: 1818,
@@ -2081,6 +2228,7 @@ export const newProducts = [
   },
   {
     id: "newProduct148",
+    slug: "womens-deluxe-plush-terry-bathrobe",
     title: "Women's Deluxe Plush Terry Bathrobe",
     description: "Experience spa-like indulgence with this women's deluxe plush terry bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 4439,
@@ -2094,6 +2242,7 @@ export const newProducts = [
   },
   {
     id: "newProduct149",
+    slug: "womens-classic-soft-absorbent-terry-bathrobe",
     title: "Women's Classic Soft Absorbent Terry Bathrobe",
     description: "Experience spa-like indulgence with this women's classic soft absorbent terry bathrobe. Tailored from premium absorbent fabric with a plush feel, spacious pockets, and a secure waist tie for relaxed mornings and tranquil evenings.",
     actualPrice: 4476,
@@ -2107,6 +2256,7 @@ export const newProducts = [
   },
   {
     id: "newProduct150",
+    slug: "young-trends-short-romantic-bridal-nighty",
     title: "Young Trends Short Romantic Bridal Nighty",
     description: "Radiate romantic charm in this young trends short romantic bridal nighty. Made with silky smooth fabric and delicate lace accents, offering lightweight comfort, effortless drape, and irresistible allure.",
     actualPrice: 3121,

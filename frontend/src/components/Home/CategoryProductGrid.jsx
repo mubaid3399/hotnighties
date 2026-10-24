@@ -14,6 +14,7 @@ const CategoryProductGrid = ({ filterFn, limit = 10 }) => {
           <ProductCard
             key={product.id}
             id={product.id}
+            slug={product.slug}
             image={product.image}
             title={product.title}
             price={product.discountedPrice || product.price}

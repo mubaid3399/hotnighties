@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { ShopContext } from '../../context/ShopContext';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 
 const CartSidebar = () => {
   const { 
@@ -90,19 +90,29 @@ const CartSidebar = () => {
               return (
                 <div key={index} className="flex gap-4 group">
                   {/* Image */}
-                  <div className="w-24 h-32 flex-shrink-0 bg-gray-50 rounded overflow-hidden">
+                  <Link 
+                    to={`/product/${productData.slug || productData.id}`} 
+                    onClick={() => setIsCartOpen(false)}
+                    className="w-24 h-32 flex-shrink-0 bg-gray-50 rounded overflow-hidden block"
+                  >
                     <img 
                       src={productData.image} 
                       alt={productData.title} 
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover transition-transform group-hover:scale-105"
                     />
-                  </div>
+                  </Link>
 
                   {/* Details */}
                   <div className="flex-1 flex flex-col justify-between py-1">
                     <div>
                       <div className="flex justify-between items-start">
-                        <h3 className="text-sm font-semibold text-gray-900 line-clamp-2 pr-4">{productData.title}</h3>
+                        <Link 
+                          to={`/product/${productData.slug || productData.id}`} 
+                          onClick={() => setIsCartOpen(false)}
+                          className="hover:text-[#501524] transition-colors"
+                        >
+                          <h3 className="text-sm font-semibold text-gray-900 line-clamp-2 pr-4">{productData.title}</h3>
+                        </Link>
                         <button 
                           onClick={() => updateQuantity(item.id, item.size, 0)}
                           className="text-gray-400 hover:text-red-500 transition-colors cursor-pointer"

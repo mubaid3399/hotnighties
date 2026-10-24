@@ -2,9 +2,11 @@ import { useRef, useContext, useState, useEffect } from 'react'
 import { gsap } from 'gsap'
 import { useNavigate } from 'react-router-dom'
 import { ShopContext } from '../../context/ShopContext'
+import { slugify } from '../../utils/slugify'
 
 const ProductCard = ({
   id,
+  slug,
   image = 'https://via.placeholder.com/400x500',
   title = 'Product Title',
   price = 0,
@@ -145,11 +147,12 @@ const ProductCard = ({
 
   const displayPrice = typeof price === 'number' ? price : Number(price) || 0
   const displayOldPrice = oldPrice ? (typeof oldPrice === 'number' ? oldPrice : Number(oldPrice) || 0) : null
+  const productSlug = slug || (title ? slugify(title) : id)
 
   return (
     <div
       ref={cardRef}
-      onClick={() => id && navigate(`/product/${id}`)}
+      onClick={() => productSlug && navigate(`/product/${productSlug}`)}
       onTouchStart={handleTouchStart}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}

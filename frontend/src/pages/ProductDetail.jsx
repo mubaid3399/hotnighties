@@ -7,15 +7,22 @@ import { getProductArticle } from '../data/articles';
 import useSEO from '../utils/useSEO';
 
 const ProductDetail = () => {
-  const { id } = useParams();
+  const { id: slugOrId } = useParams();
   const navigate = useNavigate();
   const { products, currency, addToCart } = useContext(ShopContext);
   
   const [size, setSize] = useState('M');
 
   const productData = useMemo(() => {
-    return (products || []).find((p) => p.id === id) || null;
-  }, [products, id]);
+    return (products || []).find((p) => p.slug === slugOrId || p.id === slugOrId) || null;
+  }, [products, slugOrId]);
+
+  // If user visits via raw ID (e.g., /product/newProduct18), seamlessly replace URL with SEO-friendly slug
+  useEffect(() => {
+    if (productData && productData.slug && slugOrId !== productData.slug) {
+      navigate(`/product/${productData.slug}`, { replace: true });
+    }
+  }, [productData, slugOrId, navigate]);
 
   const article = useMemo(() => {
     return productData ? getProductArticle(productData) : null;
@@ -32,6 +39,8 @@ const ProductDetail = () => {
   const seoSchema = useMemo(() => {
     if (!productData) return null;
 
+    const canonicalSlug = productData.slug || productData.id;
+
     const productSchema = {
       '@type': 'Product',
       name: productData.title,
@@ -47,7 +56,7 @@ const ProductDetail = () => {
         price: productData.discountedPrice || productData.actualPrice,
         priceCurrency: 'PKR',
         availability: 'https://schema.org/InStock',
-        url: `https://hotnighties.pk/product/${productData.id}`,
+        url: `https://hotnighties.pk/product/${canonicalSlug}`,
         seller: {
           '@type': 'Organization',
           name: 'Hotnighties Pakistan'
@@ -87,7 +96,7 @@ const ProductDetail = () => {
     title: productData ? `${productData.title} Online in Pakistan` : 'Product Details',
     description: metaDescription,
     image: productData?.image,
-    canonical: `https://hotnighties.pk/product/${id}`,
+    canonical: `https://hotnighties.pk/product/${productData?.slug || slugOrId}`,
     keywords: productData ? [
       productData.title,
       productData.subcategory,
@@ -219,6 +228,7 @@ const ProductDetail = () => {
                 <ProductCard
                   key={item.id || index}
                   id={item.id}
+                  slug={item.slug}
                   image={item.image}
                   title={item.title}
                   price={item.discountedPrice}

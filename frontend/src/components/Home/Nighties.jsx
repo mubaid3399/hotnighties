@@ -17,6 +17,7 @@ const Nighties = () => {
           <ProductCard 
             key={product.id}
             id={product.id}
+            slug={product.slug}
             image={product.image}
             title={product.title}
             category={product.subcategory || "Nighties"}

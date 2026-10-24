@@ -94,6 +94,7 @@ const SexyLingerie = () => {
             <ProductCard
               key={item.id || index}
               id={item.id}
+              slug={item.slug}
               image={item.image}
               title={item.title}
               price={item.discountedPrice}

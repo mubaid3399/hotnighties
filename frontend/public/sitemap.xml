@@ -26,6 +26,14 @@
     <priority>0.95</priority>
   </url>
   <url>
+    <loc>https://hotnighties.pk/all-categories</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Department Hubs -->
+  <url>
     <loc>https://hotnighties.pk/collections/sexy-lingerie</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -49,12 +57,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
-  <url>
-    <loc>https://hotnighties.pk/pakistani-dresses</loc>
-    <lastmod>2026-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.85</priority>
-  </url>
+
+  <!-- Editorial & Customer Care Info Pages -->
   <url>
     <loc>https://hotnighties.pk/about</loc>
     <lastmod>2026-10-24</lastmod>
@@ -70,14 +74,14 @@
   <url>
     <loc>https://hotnighties.pk/faq</loc>
     <lastmod>2026-10-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hotnighties.pk/size-guide</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.65</priority>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://hotnighties.pk/shipping-policy</loc>
@@ -505,1240 +509,1240 @@
   </url>
 
   <!-- ============================================== -->
-  <!-- All Products (206) -->
+  <!-- All Products (206) with SEO Slugs -->
   <!-- ============================================== -->
   <url>
-    <loc>https://hotnighties.pk/product/braProduct1</loc>
+    <loc>https://hotnighties.pk/product/high-support-padded-racerback-sports-bra</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/braProduct2</loc>
+    <loc>https://hotnighties.pk/product/anti-sagging-seamless-minimizer-bra-wire-free</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/braProduct3</loc>
+    <loc>https://hotnighties.pk/product/plus-size-full-coverage-wire-free-bra-three-row-hook</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/braProduct4</loc>
+    <loc>https://hotnighties.pk/product/nakedfeel-seamless-sports-bra-molded-cup-yoga-vest</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/braProduct5</loc>
+    <loc>https://hotnighties.pk/product/glossy-seamless-gathered-push-up-sports-bra</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/braProduct6</loc>
+    <loc>https://hotnighties.pk/product/mesh-lace-hollow-backless-sports-bra-yoga-and-pilates</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct1</loc>
+    <loc>https://hotnighties.pk/product/sexy-high-rise-thong-panty-with-decorative-chain-red</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct2</loc>
+    <loc>https://hotnighties.pk/product/ice-silk-seamless-v-string-thong-ultra-soft</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct3</loc>
+    <loc>https://hotnighties.pk/product/disposable-bamboo-fiber-boxer-shorts-travel-and-hygiene</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct4</loc>
+    <loc>https://hotnighties.pk/product/soft-cotton-everyday-panties-wholesale-multi-pack</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct5</loc>
+    <loc>https://hotnighties.pk/product/fashion-soft-ladies-briefs-classic-comfort-fit</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct6</loc>
+    <loc>https://hotnighties.pk/product/high-waist-tummy-control-cotton-briefs-stretch-comfort</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct7</loc>
+    <loc>https://hotnighties.pk/product/skin-friendly-breathable-close-fitting-panties</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct8</loc>
+    <loc>https://hotnighties.pk/product/lynmiss-4-layer-anti-bacterial-period-underwear</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct9</loc>
+    <loc>https://hotnighties.pk/product/high-rise-nylon-cotton-yoga-fitness-panties-solid</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct10</loc>
+    <loc>https://hotnighties.pk/product/sheer-lace-floral-low-rise-briefs-cotton-nylon-blend</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct11</loc>
+    <loc>https://hotnighties.pk/product/plus-size-high-waist-lace-briefs-full-coverage</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct12</loc>
+    <loc>https://hotnighties.pk/product/pure-cotton-triangle-panties-soft-and-breathable</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct13</loc>
+    <loc>https://hotnighties.pk/product/low-rise-seamless-ice-silk-breathable-triangle-panties</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct14</loc>
+    <loc>https://hotnighties.pk/product/high-waisted-tummy-control-shapewear-panties</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct15</loc>
+    <loc>https://hotnighties.pk/product/lace-underwear-low-rise-panties-6-colors-pack</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct16</loc>
+    <loc>https://hotnighties.pk/product/skin-friendly-soft-cotton-panties-daily-comfort</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct17</loc>
+    <loc>https://hotnighties.pk/product/sexy-transparent-silk-bikini-thong-zipper-crotch-detail</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/pantieProduct18</loc>
+    <loc>https://hotnighties.pk/product/rhinestone-lace-bikini-panties-ultra-thin-low-waisted</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct1</loc>
+    <loc>https://hotnighties.pk/product/satin-kimono-robe-4-piece-pajama-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct2</loc>
+    <loc>https://hotnighties.pk/product/5-piece-silk-lace-satin-pajama-set-v-neck-cami-and-gown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct3</loc>
+    <loc>https://hotnighties.pk/product/lace-nightwear-sleepwear-dress-2025-best-seller</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct4</loc>
+    <loc>https://hotnighties.pk/product/butterfly-backless-sexy-honeymoon-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct5</loc>
+    <loc>https://hotnighties.pk/product/love-heart-print-halter-shorts-pajama-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct6</loc>
+    <loc>https://hotnighties.pk/product/embroidery-lace-sexy-night-dress-intimate-sleepwear</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct7</loc>
+    <loc>https://hotnighties.pk/product/fashion-ladies-nightie-classic-elegant-sleepwear</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct8</loc>
+    <loc>https://hotnighties.pk/product/luxury-lace-long-night-dress-sexy-lingerie-gown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct9</loc>
+    <loc>https://hotnighties.pk/product/heart-print-cami-pajama-set-summer-pyjamas</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct10</loc>
+    <loc>https://hotnighties.pk/product/hot-romantic-nightie-for-ladies-sensual-sleepwear</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct11</loc>
+    <loc>https://hotnighties.pk/product/floral-snap-crotch-teddy-chemise-see-through-gauze</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct12</loc>
+    <loc>https://hotnighties.pk/product/floral-gauze-teddy-chemise-nightie-sheer-sexy-lingerie</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct13</loc>
+    <loc>https://hotnighties.pk/product/european-camisole-pajamas-for-women-bestseller</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct14</loc>
+    <loc>https://hotnighties.pk/product/plus-size-lace-night-dress-evening-sleepwear-gown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct15</loc>
+    <loc>https://hotnighties.pk/product/lace-bow-see-through-embroidery-bodysuit-pajamas</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct16</loc>
+    <loc>https://hotnighties.pk/product/satin-kimono-silk-sleepwear-set-4-piece-luxury-robe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct17</loc>
+    <loc>https://hotnighties.pk/product/plus-size-ladies-sexy-nightie-2024-new-collection</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct18</loc>
+    <loc>https://hotnighties.pk/product/satin-contrast-lace-v-neck-backless-chemise-nightdress</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct19</loc>
+    <loc>https://hotnighties.pk/product/silk-lace-sling-sleepwear-night-dress-elegant-lingerie</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct20</loc>
+    <loc>https://hotnighties.pk/product/silk-satin-lace-3-piece-homewear-set-mature-nightie</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct21</loc>
+    <loc>https://hotnighties.pk/product/plus-size-deep-v-transparent-3-piece-nightwear-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct22</loc>
+    <loc>https://hotnighties.pk/product/sexy-hot-night-dress-minimal-and-seductive</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct23</loc>
+    <loc>https://hotnighties.pk/product/sexy-sleepwear-pajamas-lingerie-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct24</loc>
+    <loc>https://hotnighties.pk/product/lace-sexy-night-dress-women-sleep-gown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct25</loc>
+    <loc>https://hotnighties.pk/product/plus-size-night-gowns-5-pack-sleepwear-collection</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct26</loc>
+    <loc>https://hotnighties.pk/product/lace-trimmed-loungewear-night-wear-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct27</loc>
+    <loc>https://hotnighties.pk/product/ladies-nightie-sleepwear-sensual-night-wear</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct28</loc>
+    <loc>https://hotnighties.pk/product/lace-perspective-lingerie-sexy-night-dress</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct29</loc>
+    <loc>https://hotnighties.pk/product/satin-babydoll-suspender-nightwear-full-slip-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct30</loc>
+    <loc>https://hotnighties.pk/product/transparent-lace-lingerie-pajama-set-nightdress-and-panty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct31</loc>
+    <loc>https://hotnighties.pk/product/satin-robe-pajamas-nighty-hot-and-sexy-ladies-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/nightieProduct32</loc>
+    <loc>https://hotnighties.pk/product/sexy-sleepwear-lingerie-sheer-lace-night-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct1</loc>
+    <loc>https://hotnighties.pk/product/exclusive-embroidered-bridal-lace-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct2</loc>
+    <loc>https://hotnighties.pk/product/2-pcs-satin-short-night-dress-and-full-sleeves-robe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct3</loc>
+    <loc>https://hotnighties.pk/product/2-pcs-sexy-short-nighty-midnight-black</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct4</loc>
+    <loc>https://hotnighties.pk/product/2-pcs-sexy-short-satin-nighty-with-matching-panty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct5</loc>
+    <loc>https://hotnighties.pk/product/2-pcs-sexy-short-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct6</loc>
+    <loc>https://hotnighties.pk/product/luxury-floral-printed-night-gown-and-robe-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct7</loc>
+    <loc>https://hotnighties.pk/product/classic-elegant-satin-silk-night-gown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct8</loc>
+    <loc>https://hotnighties.pk/product/ladies-delicate-floral-lace-sexy-panty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct9</loc>
+    <loc>https://hotnighties.pk/product/3-pcs-romantic-lace-short-nighty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct10</loc>
+    <loc>https://hotnighties.pk/product/3-pcs-sexy-silk-short-nighty-with-matching-gown-rose</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct11</loc>
+    <loc>https://hotnighties.pk/product/3-pcs-sexy-silk-short-nighty-with-matching-gown-wine</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct12</loc>
+    <loc>https://hotnighties.pk/product/3-pcs-silk-ladies-nightwear-robe-and-cami-set-pearl-grey</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct13</loc>
+    <loc>https://hotnighties.pk/product/soft-stretch-cotton-regular-comfort-panty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct14</loc>
+    <loc>https://hotnighties.pk/product/nautical-anchor-and-wheel-printed-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct15</loc>
+    <loc>https://hotnighties.pk/product/wild-animal-print-silk-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct16</loc>
+    <loc>https://hotnighties.pk/product/beauty-elegant-sheer-tights-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct17</loc>
+    <loc>https://hotnighties.pk/product/beileisi-swiss-dotted-sheer-leg-stockings</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct18</loc>
+    <loc>https://hotnighties.pk/product/black-and-white-textured-contrast-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct19</loc>
+    <loc>https://hotnighties.pk/product/classic-black-and-white-triangle-string-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct20</loc>
+    <loc>https://hotnighties.pk/product/black-butterfly-single-padded-string-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct21</loc>
+    <loc>https://hotnighties.pk/product/black-kiss-printed-single-padded-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct22</loc>
+    <loc>https://hotnighties.pk/product/black-polka-dotted-push-up-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct23</loc>
+    <loc>https://hotnighties.pk/product/black-polyester-satin-button-up-nightsuit-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct24</loc>
+    <loc>https://hotnighties.pk/product/kelitha-italian-non-padded-non-wired-wedding-bra-black</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct25</loc>
+    <loc>https://hotnighties.pk/product/sky-blue-checkered-cotton-lounge-pajama-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct26</loc>
+    <loc>https://hotnighties.pk/product/blue-polka-dotted-cotton-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct27</loc>
+    <loc>https://hotnighties.pk/product/body-care-slim-and-sleek-high-waist-seamless-body-shaper</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct28</loc>
+    <loc>https://hotnighties.pk/product/body-care-firm-control-corset-high-waist-shaper-suit</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct29</loc>
+    <loc>https://hotnighties.pk/product/bombshell-deep-v-short-romantic-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct30</loc>
+    <loc>https://hotnighties.pk/product/delicate-butterfly-print-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct31</loc>
+    <loc>https://hotnighties.pk/product/cheetah-animal-print-satin-short-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct32</loc>
+    <loc>https://hotnighties.pk/product/classic-translucent-floral-tattoo-sheer-tights</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct33</loc>
+    <loc>https://hotnighties.pk/product/czd-spring-butterfly-sheer-net-bodystocking</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct34</loc>
+    <loc>https://hotnighties.pk/product/dark-red-silk-2-piece-robe-and-chemise-bridal-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct35</loc>
+    <loc>https://hotnighties.pk/product/divine-paridhaan-short-romantic-nighty-crimson</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct36</loc>
+    <loc>https://hotnighties.pk/product/divine-paridhaan-short-romantic-nighty-blush</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct37</loc>
+    <loc>https://hotnighties.pk/product/dream-girl-sheer-lace-thigh-high-stockings</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct38</loc>
+    <loc>https://hotnighties.pk/product/fancy-violet-net-lace-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct39</loc>
+    <loc>https://hotnighties.pk/product/fancy-short-romantic-nighty-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct40</loc>
+    <loc>https://hotnighties.pk/product/fashigo-satin-short-romantic-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct41</loc>
+    <loc>https://hotnighties.pk/product/firm-control-traditional-full-briefs</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct42</loc>
+    <loc>https://hotnighties.pk/product/funky-peace-printed-casual-cotton-camisole</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct43</loc>
+    <loc>https://hotnighties.pk/product/tropical-green-palm-tree-printed-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct44</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-midnight-black</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct45</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-mocha-brown</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct46</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-dark-ruby</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct47</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-warm-ivory</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct48</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-navy-blue</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct49</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-pistachio-green</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct50</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-powder-pink</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct51</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-royal-blue</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct52</loc>
+    <loc>https://hotnighties.pk/product/luxury-satin-silk-night-gown-with-lace-trim-ruby-red</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct53</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-kastoori-floral-net-bodystocking-model-8020</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct54</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-patterned-net-bodystocking-model-8035</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct55</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-intricate-net-bodystocking-model-8908</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct56</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-diamond-net-bodystocking-model-8940</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct57</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-temptation-net-bodystocking-model-h8265</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct58</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-temptation-net-bodystocking-model-h8266</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct59</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-khushi-floral-net-bodystocking</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct60</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-alluring-crotchless-net-bodystocking-model-8005</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct61</loc>
+    <loc>https://hotnighties.pk/product/hkmeair-seductive-open-weave-net-bodystocking-model-8069</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct62</loc>
+    <loc>https://hotnighties.pk/product/honeymoon-short-romantic-nighty-for-woman</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct63</loc>
+    <loc>https://hotnighties.pk/product/honeymoon-short-romantic-nighty-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct64</loc>
+    <loc>https://hotnighties.pk/product/honeymoon-short-romantic-net-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct65</loc>
+    <loc>https://hotnighties.pk/product/hot-and-seductive-floor-length-sheer-net-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct66</loc>
+    <loc>https://hotnighties.pk/product/bridal-fancy-lace-sheer-thong-panty-crimson-floral</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct67</loc>
+    <loc>https://hotnighties.pk/product/bridal-fancy-lace-sheer-thong-panty-rose-blossom</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct68</loc>
+    <loc>https://hotnighties.pk/product/ivory-classic-short-silk-gown-with-sheer-accents</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct69</loc>
+    <loc>https://hotnighties.pk/product/kimono-soft-terry-cotton-women-hooded-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct70</loc>
+    <loc>https://hotnighties.pk/product/kimono-striped-terry-cotton-hooded-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct71</loc>
+    <loc>https://hotnighties.pk/product/ladies-targeted-belly-shaper-belt-with-zipper-closure</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct72</loc>
+    <loc>https://hotnighties.pk/product/luxury-white-terry-bathrobe-with-embroidered-trim</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct73</loc>
+    <loc>https://hotnighties.pk/product/flourish-maroon-satin-lace-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct74</loc>
+    <loc>https://hotnighties.pk/product/moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-black-091</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct75</loc>
+    <loc>https://hotnighties.pk/product/moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-ivory-091</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct76</loc>
+    <loc>https://hotnighties.pk/product/moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-champagne-092</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct77</loc>
+    <loc>https://hotnighties.pk/product/moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-2094</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct78</loc>
+    <loc>https://hotnighties.pk/product/multi-color-bohemian-triangle-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct79</loc>
+    <loc>https://hotnighties.pk/product/navy-blue-satin-sleeveless-night-dress</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct80</loc>
+    <loc>https://hotnighties.pk/product/flourish-silky-lace-trim-short-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct81</loc>
+    <loc>https://hotnighties.pk/product/nurteks-turkish-honeymoon-2pc-long-nighty-and-robe-set-5192</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct82</loc>
+    <loc>https://hotnighties.pk/product/imported-thailand-breathable-camisole-tank-pack-of-2</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct83</loc>
+    <loc>https://hotnighties.pk/product/madam-comfort-non-padded-non-wired-daily-bra-pack-of-2</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct84</loc>
+    <loc>https://hotnighties.pk/product/ultra-sexy-bikini-style-stretch-panties-pack-of-2</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct85</loc>
+    <loc>https://hotnighties.pk/product/designer-stocklot-bikini-top-swimwear-pack-of-2</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct86</loc>
+    <loc>https://hotnighties.pk/product/ck-breathable-plain-cotton-panties-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct87</loc>
+    <loc>https://hotnighties.pk/product/soft-cotton-lace-trimmed-daily-camisole-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct88</loc>
+    <loc>https://hotnighties.pk/product/thailand-premium-stretch-camisole-tops-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct89</loc>
+    <loc>https://hotnighties.pk/product/ck-soft-stretchable-cotton-jersey-printed-panties-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct90</loc>
+    <loc>https://hotnighties.pk/product/floral-printed-fancy-casual-wear-camisole-pack-of-3-design-b</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct91</loc>
+    <loc>https://hotnighties.pk/product/floral-printed-fancy-casual-wear-camisole-pack-of-3-design-a</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct92</loc>
+    <loc>https://hotnighties.pk/product/imported-branded-stocklot-bikini-top-bundle-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct93</loc>
+    <loc>https://hotnighties.pk/product/soft-pure-cotton-plain-panties-mix-colors-pack-of-3</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct94</loc>
+    <loc>https://hotnighties.pk/product/girls-colourful-stretch-cotton-camisole-tanks-pack-of-5</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct95</loc>
+    <loc>https://hotnighties.pk/product/womens-casual-cotton-printed-loungewear-pajama</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct96</loc>
+    <loc>https://hotnighties.pk/product/pink-beauty-flattering-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct97</loc>
+    <loc>https://hotnighties.pk/product/pink-polka-dotted-cross-single-padded-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct98</loc>
+    <loc>https://hotnighties.pk/product/plain-fancy-soft-camisole-top-jet-black</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct99</loc>
+    <loc>https://hotnighties.pk/product/plain-fancy-soft-camisole-top-blush-pink</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct100</loc>
+    <loc>https://hotnighties.pk/product/plain-fancy-soft-camisole-top-sky-blue</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct101</loc>
+    <loc>https://hotnighties.pk/product/premium-ultra-soft-beige-terry-cotton-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct102</loc>
+    <loc>https://hotnighties.pk/product/spa-grade-premium-waffle-weave-cotton-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct103</loc>
+    <loc>https://hotnighties.pk/product/premium-cotton-fabric-relaxed-fit-night-robe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct104</loc>
+    <loc>https://hotnighties.pk/product/prinstory-warm-fleece-ruffle-long-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct105</loc>
+    <loc>https://hotnighties.pk/product/printed-stretch-jersey-pajama-tights-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct106</loc>
+    <loc>https://hotnighties.pk/product/deep-purple-allure-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct107</loc>
+    <loc>https://hotnighties.pk/product/red-and-black-checkered-flannel-lounge-pajama-for-women</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct108</loc>
+    <loc>https://hotnighties.pk/product/luxury-6pcs-bridal-nightwear-trunk-set-nighty-gown-cami-and-bikini-2077</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct109</loc>
+    <loc>https://hotnighties.pk/product/romantic-sheer-lace-babydoll-short-nighty-style-b</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct110</loc>
+    <loc>https://hotnighties.pk/product/romantic-sheer-lace-babydoll-short-nighty-style-a</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct111</loc>
+    <loc>https://hotnighties.pk/product/sea-green-fusion-halter-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct112</loc>
+    <loc>https://hotnighties.pk/product/seamless-front-open-sports-yoga-bra-and-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct113</loc>
+    <loc>https://hotnighties.pk/product/secret-possessions-lace-waist-cotton-brief-panties-pack-of-4</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct114</loc>
+    <loc>https://hotnighties.pk/product/secret-treasure-push-up-t-shirt-bra-nude-skin</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct115</loc>
+    <loc>https://hotnighties.pk/product/senslife-luxury-lace-short-romantic-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct116</loc>
+    <loc>https://hotnighties.pk/product/silky-padded-halter-bikini-set-jet-black</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct117</loc>
+    <loc>https://hotnighties.pk/product/silky-padded-halter-bikini-set-rich-maroon</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct118</loc>
+    <loc>https://hotnighties.pk/product/silky-padded-halter-bikini-set-crimson-red</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct119</loc>
+    <loc>https://hotnighties.pk/product/sexy-black-single-padded-lace-bikini-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct120</loc>
+    <loc>https://hotnighties.pk/product/sexy-breathable-cotton-net-short-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct121</loc>
+    <loc>https://hotnighties.pk/product/intricate-geometric-net-bodystocking-hz8825</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct122</loc>
+    <loc>https://hotnighties.pk/product/alluring-short-romantic-lace-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct123</loc>
+    <loc>https://hotnighties.pk/product/sexy-sheer-embroidered-net-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct124</loc>
+    <loc>https://hotnighties.pk/product/transparent-lace-bikini-panty-with-silk-bow</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct125</loc>
+    <loc>https://hotnighties.pk/product/vibrant-shocking-pink-2-piece-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct126</loc>
+    <loc>https://hotnighties.pk/product/shopping-station-short-romantic-nighty-for-women-2014</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct127</loc>
+    <loc>https://hotnighties.pk/product/shopping-station-silky-short-romantic-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct128</loc>
+    <loc>https://hotnighties.pk/product/black-satin-short-night-dress-with-full-sleeves-robe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct129</loc>
+    <loc>https://hotnighties.pk/product/classic-single-padded-everyday-bra-off-white</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct130</loc>
+    <loc>https://hotnighties.pk/product/nude-skin-butterfly-single-padded-bikini-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct131</loc>
+    <loc>https://hotnighties.pk/product/sklu-fashion-patterned-sheer-pantyhose-leg-stockings</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct132</loc>
+    <loc>https://hotnighties.pk/product/solid-silk-pink-chemise-and-robe-with-delicate-lace-trim</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct133</loc>
+    <loc>https://hotnighties.pk/product/sweet-strawberry-print-bikini-set-candy-pink</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct134</loc>
+    <loc>https://hotnighties.pk/product/sweet-strawberry-print-bikini-set-sky-blue</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct135</loc>
+    <loc>https://hotnighties.pk/product/sweet-strawberry-print-bikini-set-pure-white</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct136</loc>
+    <loc>https://hotnighties.pk/product/sweet-strawberry-print-bikini-set-sunny-yellow</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct137</loc>
+    <loc>https://hotnighties.pk/product/bridal-cheetah-print-single-padded-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct138</loc>
+    <loc>https://hotnighties.pk/product/stylish-floral-printed-casual-camisole-top</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct139</loc>
+    <loc>https://hotnighties.pk/product/stylish-white-long-nighty-with-pink-floral-print</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct140</loc>
+    <loc>https://hotnighties.pk/product/tkeshto-womens-breathable-cotton-tummy-tucker-model-2</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct141</loc>
+    <loc>https://hotnighties.pk/product/tkeshto-womens-breathable-cotton-tummy-tucker-model-1</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct142</loc>
+    <loc>https://hotnighties.pk/product/tulip-t-118-soft-breathable-cotton-everyday-bra</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct143</loc>
+    <loc>https://hotnighties.pk/product/victorias-secret-style-double-padded-push-up-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct144</loc>
+    <loc>https://hotnighties.pk/product/victorias-secret-style-soft-padded-push-up-bra-panty-set</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct145</loc>
+    <loc>https://hotnighties.pk/product/white-satin-silk-gown-with-scalloped-floral-lace</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct146</loc>
+    <loc>https://hotnighties.pk/product/white-long-floral-printed-nighty-with-side-pocket</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct147</loc>
+    <loc>https://hotnighties.pk/product/white-underwired-sheer-net-lace-bra</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct148</loc>
+    <loc>https://hotnighties.pk/product/womens-deluxe-plush-terry-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct149</loc>
+    <loc>https://hotnighties.pk/product/womens-classic-soft-absorbent-terry-bathrobe</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hotnighties.pk/product/newProduct150</loc>
+    <loc>https://hotnighties.pk/product/young-trends-short-romantic-bridal-nighty</loc>
     <lastmod>2026-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

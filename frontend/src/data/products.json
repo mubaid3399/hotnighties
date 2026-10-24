@@ -1,6 +1,7 @@
 [
   {
     "id": "newProduct1",
+    "slug": "exclusive-embroidered-bridal-lace-nighty",
     "varName": "newProductImg1",
     "filename": "01240-20160126-Women-Ladies-Nighty-Nightwear-Nightdress-Lingerie-Undergarments-Nightynight-pk_360x.webp",
     "title": "Exclusive Embroidered Bridal Lace Nighty",
@@ -15,6 +16,7 @@
   },
   {
     "id": "newProduct2",
+    "slug": "2-pcs-satin-short-night-dress-and-full-sleeves-robe",
     "varName": "newProductImg2",
     "filename": "2 Pcs Satin Short Night Dress & Full Sleeves Robe.jpg",
     "title": "2 Pcs Satin Short Night Dress & Full Sleeves Robe",
@@ -29,6 +31,7 @@
   },
   {
     "id": "newProduct3",
+    "slug": "2-pcs-sexy-short-nighty-midnight-black",
     "varName": "newProductImg3",
     "filename": "2 Pcs Sexy Short Nighty -Black.jpg",
     "title": "2 Pcs Sexy Short Nighty - Midnight Black",
@@ -43,6 +46,7 @@
   },
   {
     "id": "newProduct4",
+    "slug": "2-pcs-sexy-short-satin-nighty-with-matching-panty",
     "varName": "newProductImg4",
     "filename": "2 Pcs Sexy Short Nighty With Panty - 609.webp",
     "title": "2 Pcs Sexy Short Satin Nighty with Matching Panty",
@@ -57,6 +61,7 @@
   },
   {
     "id": "newProduct5",
+    "slug": "2-pcs-sexy-short-nighty",
     "varName": "newProductImg5",
     "filename": "2 Pcs Sexy Short Nighty.webp",
     "title": "2 Pcs Sexy Short Nighty",
@@ -71,6 +76,7 @@
   },
   {
     "id": "newProduct6",
+    "slug": "luxury-floral-printed-night-gown-and-robe-set",
     "varName": "newProductImg6",
     "filename": "20160329-185318-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Printed-Women_result_360x.webp",
     "title": "Luxury Floral Printed Night Gown & Robe Set",
@@ -85,6 +91,7 @@
   },
   {
     "id": "newProduct7",
+    "slug": "classic-elegant-satin-silk-night-gown",
     "varName": "newProductImg7",
     "filename": "20160805-265417-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women_result_360x.webp",
     "title": "Classic Elegant Satin Silk Night Gown",
@@ -99,6 +106,7 @@
   },
   {
     "id": "newProduct8",
+    "slug": "ladies-delicate-floral-lace-sexy-panty",
     "varName": "newProductImg8",
     "filename": "20161110-292116-Ladies-Panties-Panty-Sexy-Panty-Undergarment-Women_result_1800x1800.webp",
     "title": "Ladies Delicate Floral Lace Sexy Panty",
@@ -113,6 +121,7 @@
   },
   {
     "id": "newProduct9",
+    "slug": "3-pcs-romantic-lace-short-nighty-set",
     "varName": "newProductImg9",
     "filename": "3 Pcs Sexy Short Nighty - 6518.webp",
     "title": "3 Pcs Romantic Lace Short Nighty Set",
@@ -127,6 +136,7 @@
   },
   {
     "id": "newProduct10",
+    "slug": "3-pcs-sexy-silk-short-nighty-with-matching-gown-rose",
     "varName": "newProductImg10",
     "filename": "3 Pcs Sexy Slik Short Nighty With Gown - 7606.webp",
     "title": "3 Pcs Sexy Silk Short Nighty with Matching Gown - Rose",
@@ -141,6 +151,7 @@
   },
   {
     "id": "newProduct11",
+    "slug": "3-pcs-sexy-silk-short-nighty-with-matching-gown-wine",
     "varName": "newProductImg11",
     "filename": "3 Pcs Sexy Slik Short Nighty With Gown - 7611.webp",
     "title": "3 Pcs Sexy Silk Short Nighty with Matching Gown - Wine",
@@ -155,6 +166,7 @@
   },
   {
     "id": "newProduct12",
+    "slug": "3-pcs-silk-ladies-nightwear-robe-and-cami-set-pearl-grey",
     "varName": "newProductImg12",
     "filename": "3 Pcs Slik Ladies Nightwear - Grey.webp",
     "title": "3 Pcs Silk Ladies Nightwear Robe & Cami Set - Pearl Grey",
@@ -169,6 +181,7 @@
   },
   {
     "id": "newProduct13",
+    "slug": "soft-stretch-cotton-regular-comfort-panty",
     "varName": "newProductImg13",
     "filename": "67-200505-20160521-Buy-panty-for-ladies-online-buy-panty-online-Cotton-Panty-Panty-panty-online-store-Regular-Panty-http-dikhawa.pk-Online-Shopping-Pakistan_360x.webp",
     "title": "Soft Stretch Cotton Regular Comfort Panty",
@@ -183,6 +196,7 @@
   },
   {
     "id": "newProduct14",
+    "slug": "nautical-anchor-and-wheel-printed-2-piece-bikini-set",
     "varName": "newProductImg14",
     "filename": "Anchor & Wheel Bikini Set.webp",
     "title": "Nautical Anchor & Wheel Printed 2-Piece Bikini Set",
@@ -197,6 +211,7 @@
   },
   {
     "id": "newProduct15",
+    "slug": "wild-animal-print-silk-2-piece-bikini-set",
     "varName": "newProductImg15",
     "filename": "Animal Print Bikini - Silk Bikini & Swimwear.webp",
     "title": "Wild Animal Print Silk 2-Piece Bikini Set",
@@ -211,6 +226,7 @@
   },
   {
     "id": "newProduct16",
+    "slug": "beauty-elegant-sheer-tights-for-women",
     "varName": "newProductImg16",
     "filename": "Beauty Sheer Tights.webp",
     "title": "Beauty Elegant Sheer Tights for Women",
@@ -225,6 +241,7 @@
   },
   {
     "id": "newProduct17",
+    "slug": "beileisi-swiss-dotted-sheer-leg-stockings",
     "varName": "newProductImg17",
     "filename": "Beileisi Dotted Leg Stocking - 2107.webp",
     "title": "Beileisi Swiss Dotted Sheer Leg Stockings",
@@ -239,6 +256,7 @@
   },
   {
     "id": "newProduct18",
+    "slug": "black-and-white-textured-contrast-2-piece-bikini-set",
     "varName": "newProductImg18",
     "filename": "Black & White Texture Bikini set.webp",
     "title": "Black & White Textured Contrast 2-Piece Bikini Set",
@@ -253,6 +271,7 @@
   },
   {
     "id": "newProduct19",
+    "slug": "classic-black-and-white-triangle-string-bikini-set",
     "varName": "newProductImg19",
     "filename": "Black & White Triangle Bikini Set.webp",
     "title": "Classic Black & White Triangle String Bikini Set",
@@ -267,6 +286,7 @@
   },
   {
     "id": "newProduct20",
+    "slug": "black-butterfly-single-padded-string-bikini-set",
     "varName": "newProductImg20",
     "filename": "Black Butterfly Single Padded Bikini Set.webp",
     "title": "Black Butterfly Single-Padded String Bikini Set",
@@ -281,6 +301,7 @@
   },
   {
     "id": "newProduct21",
+    "slug": "black-kiss-printed-single-padded-bra-panty-set",
     "varName": "newProductImg21",
     "filename": "Black Kiss Printed Bra Panty Set.webp",
     "title": "Black Kiss Printed Single-Padded Bra Panty Set",
@@ -295,6 +316,7 @@
   },
   {
     "id": "newProduct22",
+    "slug": "black-polka-dotted-push-up-bra-panty-set",
     "varName": "newProductImg22",
     "filename": "Black Polka Dotted Bra Panty Set.webp",
     "title": "Black Polka Dotted Push-Up Bra Panty Set",
@@ -309,6 +331,7 @@
   },
   {
     "id": "newProduct23",
+    "slug": "black-polyester-satin-button-up-nightsuit-set",
     "varName": "newProductImg23",
     "filename": "Black Polyester Satin Nightsuit.webp",
     "title": "Black Polyester Satin Button-Up Nightsuit Set",
@@ -323,6 +346,7 @@
   },
   {
     "id": "newProduct24",
+    "slug": "kelitha-italian-non-padded-non-wired-wedding-bra-black",
     "varName": "newProductImg24",
     "filename": "Black Wedding Bra , Non Padded - Non Wired Bra - By Kelitha (Italian Brand).jpg",
     "title": "Kelitha Italian Non-Padded Non-Wired Wedding Bra - Black",
@@ -337,6 +361,7 @@
   },
   {
     "id": "newProduct25",
+    "slug": "sky-blue-checkered-cotton-lounge-pajama-for-women",
     "varName": "newProductImg25",
     "filename": "Blue Checkered Pajama For Women.webp",
     "title": "Sky Blue Checkered Cotton Lounge Pajama For Women",
@@ -351,6 +376,7 @@
   },
   {
     "id": "newProduct26",
+    "slug": "blue-polka-dotted-cotton-bra-panty-set",
     "varName": "newProductImg26",
     "filename": "Blue Polka Dotted Bra Panty Set.webp",
     "title": "Blue Polka Dotted Cotton Bra Panty Set",
@@ -365,6 +391,7 @@
   },
   {
     "id": "newProduct27",
+    "slug": "body-care-slim-and-sleek-high-waist-seamless-body-shaper",
     "varName": "newProductImg27",
     "filename": "Body Care 41216 Slim & Sleek High Waist Body Suit.webp",
     "title": "Body Care Slim & Sleek High-Waist Seamless Body Shaper",
@@ -379,6 +406,7 @@
   },
   {
     "id": "newProduct28",
+    "slug": "body-care-firm-control-corset-high-waist-shaper-suit",
     "varName": "newProductImg28",
     "filename": "Body Care 61017 Body Fit Corset High Waist Body Suit.webp",
     "title": "Body Care Firm Control Corset High-Waist Shaper Suit",
@@ -393,6 +421,7 @@
   },
   {
     "id": "newProduct29",
+    "slug": "bombshell-deep-v-short-romantic-nighty",
     "varName": "newProductImg29",
     "filename": "Bombshell Short Romantic Nighty For Wom.webp",
     "title": "Bombshell Deep-V Short Romantic Nighty",
@@ -407,6 +436,7 @@
   },
   {
     "id": "newProduct30",
+    "slug": "delicate-butterfly-print-2-piece-bikini-set",
     "varName": "newProductImg30",
     "filename": "Butterfly Bikini Set.webp",
     "title": "Delicate Butterfly Print 2-Piece Bikini Set",
@@ -421,6 +451,7 @@
   },
   {
     "id": "newProduct31",
+    "slug": "cheetah-animal-print-satin-short-nighty",
     "varName": "newProductImg31",
     "filename": "Cheeta Print Short Nighty.jpg",
     "title": "Cheetah Animal Print Satin Short Nighty",
@@ -435,6 +466,7 @@
   },
   {
     "id": "newProduct32",
+    "slug": "classic-translucent-floral-tattoo-sheer-tights",
     "varName": "newProductImg32",
     "filename": "Classic Translucent Tatto Tights - 6658-35.jpg",
     "title": "Classic Translucent Floral Tattoo Sheer Tights",
@@ -449,6 +481,7 @@
   },
   {
     "id": "newProduct33",
+    "slug": "czd-spring-butterfly-sheer-net-bodystocking",
     "varName": "newProductImg33",
     "filename": "CZD Spring Butterfly 8804.jpg",
     "title": "CZD Spring Butterfly Sheer Net Bodystocking",
@@ -463,6 +496,7 @@
   },
   {
     "id": "newProduct34",
+    "slug": "dark-red-silk-2-piece-robe-and-chemise-bridal-set",
     "varName": "newProductImg34",
     "filename": "DARK RED SILK 2 PIECE ROBE CHEMISE SET - RB CHE-DR.jpg",
     "title": "Dark Red Silk 2-Piece Robe & Chemise Bridal Set",
@@ -477,6 +511,7 @@
   },
   {
     "id": "newProduct35",
+    "slug": "divine-paridhaan-short-romantic-nighty-crimson",
     "varName": "newProductImg35",
     "filename": "Divine Paridhaan Short Romantic Nighty.jpg",
     "title": "Divine Paridhaan Short Romantic Nighty - Crimson",
@@ -491,6 +526,7 @@
   },
   {
     "id": "newProduct36",
+    "slug": "divine-paridhaan-short-romantic-nighty-blush",
     "varName": "newProductImg36",
     "filename": "Divine Paridhaan Short Romantic Nighty.webp",
     "title": "Divine Paridhaan Short Romantic Nighty - Blush",
@@ -505,6 +541,7 @@
   },
   {
     "id": "newProduct37",
+    "slug": "dream-girl-sheer-lace-thigh-high-stockings",
     "varName": "newProductImg37",
     "filename": "Dream Girl Women's Sheer Thigh-High Leg Stockings - 4006.webp",
     "title": "Dream Girl Sheer Lace Thigh-High Stockings",
@@ -519,6 +556,7 @@
   },
   {
     "id": "newProduct38",
+    "slug": "fancy-violet-net-lace-2-piece-bikini-set",
     "varName": "newProductImg38",
     "filename": "Fancy Net Purple Bikini Set.jpg",
     "title": "Fancy Violet Net Lace 2-Piece Bikini Set",
@@ -533,6 +571,7 @@
   },
   {
     "id": "newProduct39",
+    "slug": "fancy-short-romantic-nighty-for-women",
     "varName": "newProductImg39",
     "filename": "Fancy Short Romantic Nighty For Women.webp",
     "title": "Fancy Short Romantic Nighty For Women",
@@ -547,6 +586,7 @@
   },
   {
     "id": "newProduct40",
+    "slug": "fashigo-satin-short-romantic-nighty",
     "varName": "newProductImg40",
     "filename": "Fashigo Short Romantic Nighty For Women.webp",
     "title": "Fashigo Satin Short Romantic Nighty",
@@ -561,6 +601,7 @@
   },
   {
     "id": "newProduct41",
+    "slug": "firm-control-traditional-full-briefs",
     "varName": "newProductImg41",
     "filename": "Firm Control Traditional Full Briefs.webp",
     "title": "Firm Control Traditional Full Briefs",
@@ -575,6 +616,7 @@
   },
   {
     "id": "newProduct42",
+    "slug": "funky-peace-printed-casual-cotton-camisole",
     "varName": "newProductImg42",
     "filename": "Funky Peace Printed Teen Age Camisole.jpg",
     "title": "Funky Peace Printed Casual Cotton Camisole",
@@ -589,6 +631,7 @@
   },
   {
     "id": "newProduct43",
+    "slug": "tropical-green-palm-tree-printed-bikini-set",
     "varName": "newProductImg43",
     "filename": "Green Tree Bikini Set.webp",
     "title": "Tropical Green Palm Tree Printed Bikini Set",
@@ -603,6 +646,7 @@
   },
   {
     "id": "newProduct44",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-midnight-black",
     "varName": "newProductImg44",
     "filename": "GWN-11-BK-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Midnight Black",
@@ -617,6 +661,7 @@
   },
   {
     "id": "newProduct45",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-mocha-brown",
     "varName": "newProductImg45",
     "filename": "GWN-11-BR-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_4e29f573-4a1c-4eed-aeab-89e2ffd20f08_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Mocha Brown",
@@ -631,6 +676,7 @@
   },
   {
     "id": "newProduct46",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-dark-ruby",
     "varName": "newProductImg46",
     "filename": "GWN-11-DR-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_750x.progressive_f0d0829a-d060-47e9-af98-1a1fc9fba88e_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Dark Ruby",
@@ -645,6 +691,7 @@
   },
   {
     "id": "newProduct47",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-warm-ivory",
     "varName": "newProductImg47",
     "filename": "GWN-11-IV-IVORY-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_750x.progressive_e6819c7f-981b-4856-b026-f24ae336b040_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Warm Ivory",
@@ -659,6 +706,7 @@
   },
   {
     "id": "newProduct48",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-navy-blue",
     "varName": "newProductImg48",
     "filename": "GWN-11-NV-Navy-Blue-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Navy Blue",
@@ -673,6 +721,7 @@
   },
   {
     "id": "newProduct49",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-pistachio-green",
     "varName": "newProductImg49",
     "filename": "GWN-11-PG-PISTACHIO-GREEN-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Pistachio Green",
@@ -687,6 +736,7 @@
   },
   {
     "id": "newProduct50",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-powder-pink",
     "varName": "newProductImg50",
     "filename": "GWN-11-PK-POWDER-PINK-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Powder Pink",
@@ -701,6 +751,7 @@
   },
   {
     "id": "newProduct51",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-royal-blue",
     "varName": "newProductImg51",
     "filename": "GWN-11-RB-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Royal Blue",
@@ -715,6 +766,7 @@
   },
   {
     "id": "newProduct52",
+    "slug": "luxury-satin-silk-night-gown-with-lace-trim-ruby-red",
     "varName": "newProductImg52",
     "filename": "GWN-11-RD-20170715-102319-Gown-Ladies-Night-Dress-Night-Suit-Nightwear-Nighty-Women-Online-Shopping-Pakistan_result_360x.webp",
     "title": "Luxury Satin Silk Night Gown with Lace Trim - Ruby Red",
@@ -729,6 +781,7 @@
   },
   {
     "id": "newProduct53",
+    "slug": "hkmeair-kastoori-floral-net-bodystocking-model-8020",
     "varName": "newProductImg53",
     "filename": "Hkmeair Kastoori Creation Sexy Net Bodystocking No 8020.jpg",
     "title": "Hkmeair Kastoori Floral Net Bodystocking (Model 8020)",
@@ -743,6 +796,7 @@
   },
   {
     "id": "newProduct54",
+    "slug": "hkmeair-khushi-patterned-net-bodystocking-model-8035",
     "varName": "newProductImg54",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No 8035.jpg",
     "title": "Hkmeair Khushi Patterned Net Bodystocking (Model 8035)",
@@ -757,6 +811,7 @@
   },
   {
     "id": "newProduct55",
+    "slug": "hkmeair-khushi-intricate-net-bodystocking-model-8908",
     "varName": "newProductImg55",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No 8908.jpg",
     "title": "Hkmeair Khushi Intricate Net Bodystocking (Model 8908)",
@@ -771,6 +826,7 @@
   },
   {
     "id": "newProduct56",
+    "slug": "hkmeair-khushi-diamond-net-bodystocking-model-8940",
     "varName": "newProductImg56",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No 8940.jpg",
     "title": "Hkmeair Khushi Diamond Net Bodystocking (Model 8940)",
@@ -785,6 +841,7 @@
   },
   {
     "id": "newProduct57",
+    "slug": "hkmeair-khushi-temptation-net-bodystocking-model-h8265",
     "varName": "newProductImg57",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No H8265.webp",
     "title": "Hkmeair Khushi Temptation Net Bodystocking (Model H8265)",
@@ -799,6 +856,7 @@
   },
   {
     "id": "newProduct58",
+    "slug": "hkmeair-khushi-temptation-net-bodystocking-model-h8266",
     "varName": "newProductImg58",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No H8266.jpg",
     "title": "Hkmeair Khushi Temptation Net Bodystocking (Model H8266)",
@@ -813,6 +871,7 @@
   },
   {
     "id": "newProduct59",
+    "slug": "hkmeair-khushi-floral-net-bodystocking",
     "varName": "newProductImg59",
     "filename": "Hkmeair Khushi Print Sexy Net Bodystocking No.jpg",
     "title": "Hkmeair Khushi Floral Net Bodystocking",
@@ -827,6 +886,7 @@
   },
   {
     "id": "newProduct60",
+    "slug": "hkmeair-alluring-crotchless-net-bodystocking-model-8005",
     "varName": "newProductImg60",
     "filename": "Hkmeair Sexy Net Bodystocking No 8005.webp",
     "title": "Hkmeair Alluring Crotchless Net Bodystocking (Model 8005)",
@@ -841,6 +901,7 @@
   },
   {
     "id": "newProduct61",
+    "slug": "hkmeair-seductive-open-weave-net-bodystocking-model-8069",
     "varName": "newProductImg61",
     "filename": "Hkmeair Sexy Net Bodystocking No 8069.jpg",
     "title": "Hkmeair Seductive Open-Weave Net Bodystocking (Model 8069)",
@@ -855,6 +916,7 @@
   },
   {
     "id": "newProduct62",
+    "slug": "honeymoon-short-romantic-nighty-for-woman",
     "varName": "newProductImg62",
     "filename": "Honeymoon Short Romantic Nighty For woman.webp",
     "title": "Honeymoon Short Romantic Nighty For woman",
@@ -869,6 +931,7 @@
   },
   {
     "id": "newProduct63",
+    "slug": "honeymoon-short-romantic-nighty-for-women",
     "varName": "newProductImg63",
     "filename": "Honeymoon Short Romantic Nighty For Women.webp",
     "title": "Honeymoon Short Romantic Nighty For Women",
@@ -883,6 +946,7 @@
   },
   {
     "id": "newProduct64",
+    "slug": "honeymoon-short-romantic-net-nighty",
     "varName": "newProductImg64",
     "filename": "Honeymoon Short Romantic Nighty For.webp",
     "title": "Honeymoon Short Romantic Net Nighty",
@@ -897,6 +961,7 @@
   },
   {
     "id": "newProduct65",
+    "slug": "hot-and-seductive-floor-length-sheer-net-nighty",
     "varName": "newProductImg65",
     "filename": "Hot & Sexy Long Net Nighty.webp",
     "title": "Hot & Seductive Floor-Length Sheer Net Nighty",
@@ -911,6 +976,7 @@
   },
   {
     "id": "newProduct66",
+    "slug": "bridal-fancy-lace-sheer-thong-panty-crimson-floral",
     "varName": "newProductImg66",
     "filename": "I38A0665-20180409-15-37-12-Bridal_Panty_Briefs_Clothing_Fancy_Lingerie_Fancy_Panty_Ladies_Panty_Net_Nighty_Panties_Panty_Sexy_Panty_thong_Undergarment_Underwear_Women-https---dikhawa.pk_O_361b3b71-.webp",
     "title": "Bridal Fancy Lace Sheer Thong Panty - Crimson Floral",
@@ -925,6 +991,7 @@
   },
   {
     "id": "newProduct67",
+    "slug": "bridal-fancy-lace-sheer-thong-panty-rose-blossom",
     "varName": "newProductImg67",
     "filename": "I38A0792-20180410-13-58-29-Bridal_Panty_Briefs_Clothing_Fancy_Lingerie_Fancy_Panty_Ladies_Panty_Net_Nighty_Panties_Panty_Sexy_Panty_thong_Undergarment_Underwear_Women-https---dikhawa.pk_O_3ab2af86-.webp",
     "title": "Bridal Fancy Lace Sheer Thong Panty - Rose Blossom",
@@ -939,6 +1006,7 @@
   },
   {
     "id": "newProduct68",
+    "slug": "ivory-classic-short-silk-gown-with-sheer-accents",
     "varName": "newProductImg68",
     "filename": "Ivory Classic Short Gown - Gwn32-Iv.webp",
     "title": "Ivory Classic Short Silk Gown with Sheer Accents",
@@ -953,6 +1021,7 @@
   },
   {
     "id": "newProduct69",
+    "slug": "kimono-soft-terry-cotton-women-hooded-bathrobe",
     "varName": "newProductImg69",
     "filename": "Kimono Soft Terry Cotton Women Hooded Bathrobe.jpg",
     "title": "Kimono Soft Terry Cotton Women Hooded Bathrobe",
@@ -967,6 +1036,7 @@
   },
   {
     "id": "newProduct70",
+    "slug": "kimono-striped-terry-cotton-hooded-bathrobe",
     "varName": "newProductImg70",
     "filename": "Kimono Soft Terry Cotton Women Striped Hooded Bathrobe.jpg",
     "title": "Kimono Striped Terry Cotton Hooded Bathrobe",
@@ -981,6 +1051,7 @@
   },
   {
     "id": "newProduct71",
+    "slug": "ladies-targeted-belly-shaper-belt-with-zipper-closure",
     "varName": "newProductImg71",
     "filename": "Ladies Belly Belt With Zipper Closure.webp",
     "title": "Ladies Targeted Belly Shaper Belt with Zipper Closure",
@@ -995,6 +1066,7 @@
   },
   {
     "id": "newProduct72",
+    "slug": "luxury-white-terry-bathrobe-with-embroidered-trim",
     "varName": "newProductImg72",
     "filename": "Luxury White Terry Bathrobe with Elegant Embroidered Trim.webp",
     "title": "Luxury White Terry Bathrobe with Embroidered Trim",
@@ -1009,6 +1081,7 @@
   },
   {
     "id": "newProduct73",
+    "slug": "flourish-maroon-satin-lace-nighty",
     "varName": "newProductImg73",
     "filename": "Maroon Nighty - FL-536 - Flourish Nightwear.jpg",
     "title": "Flourish Maroon Satin Lace Nighty",
@@ -1023,6 +1096,7 @@
   },
   {
     "id": "newProduct74",
+    "slug": "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-black-091",
     "varName": "newProductImg74",
     "filename": "Moongirl - Exclusive Bridal 2Pc Long Nighty Set with Robe - Wedding Nighty Set 091 - Turkish Brand black.webp",
     "title": "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Black (091)",
@@ -1037,6 +1111,7 @@
   },
   {
     "id": "newProduct75",
+    "slug": "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-ivory-091",
     "varName": "newProductImg75",
     "filename": "Moongirl - Exclusive Bridal 2Pc Long Nighty Set with Robe - Wedding Nighty Set 091 - Turkish Brand.webp",
     "title": "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Ivory (091)",
@@ -1051,6 +1126,7 @@
   },
   {
     "id": "newProduct76",
+    "slug": "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-champagne-092",
     "varName": "newProductImg76",
     "filename": "Moongirl - Exclusive Bridal 2Pc Long Nighty Set with Robe - Wedding Nighty Set 092 - Turkish Brand.webp",
     "title": "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set - Champagne (092)",
@@ -1065,6 +1141,7 @@
   },
   {
     "id": "newProduct77",
+    "slug": "moongirl-turkish-bridal-2pc-long-nighty-and-robe-set-2094",
     "varName": "newProductImg77",
     "filename": "Moongirl - Exclusive Bridal Wedding Nightwear 2Pc Long Nighty Set with Robe 2094 - Turkish Brand.webp",
     "title": "Moongirl Turkish Bridal 2Pc Long Nighty & Robe Set (2094)",
@@ -1079,6 +1156,7 @@
   },
   {
     "id": "newProduct78",
+    "slug": "multi-color-bohemian-triangle-bikini-set",
     "varName": "newProductImg78",
     "filename": "Multi Triangle Bikini Set.webp",
     "title": "Multi-Color Bohemian Triangle Bikini Set",
@@ -1093,6 +1171,7 @@
   },
   {
     "id": "newProduct79",
+    "slug": "navy-blue-satin-sleeveless-night-dress",
     "varName": "newProductImg79",
     "filename": "Navy Blue Satin Sleeveless Night Dress.webp",
     "title": "Navy Blue Satin Sleeveless Night Dress",
@@ -1107,6 +1186,7 @@
   },
   {
     "id": "newProduct80",
+    "slug": "flourish-silky-lace-trim-short-nighty",
     "varName": "newProductImg80",
     "filename": "Nighty - FL-0023 - Flourish Nightwear.webp",
     "title": "Flourish Silky Lace Trim Short Nighty",
@@ -1121,6 +1201,7 @@
   },
   {
     "id": "newProduct81",
+    "slug": "nurteks-turkish-honeymoon-2pc-long-nighty-and-robe-set-5192",
     "varName": "newProductImg81",
     "filename": "Nurteks - Exclusive Bridal Wedding Honeymoon 2Pc Long Nighty Set with Robe 5192 - Turkish Brand.webp",
     "title": "Nurteks Turkish Honeymoon 2Pc Long Nighty & Robe Set (5192)",
@@ -1135,6 +1216,7 @@
   },
   {
     "id": "newProduct82",
+    "slug": "imported-thailand-breathable-camisole-tank-pack-of-2",
     "varName": "newProductImg82",
     "filename": "Pack of 2 - Thailand Camisole For Women.webp",
     "title": "Imported Thailand Breathable Camisole Tank - Pack of 2",
@@ -1149,6 +1231,7 @@
   },
   {
     "id": "newProduct83",
+    "slug": "madam-comfort-non-padded-non-wired-daily-bra-pack-of-2",
     "varName": "newProductImg83",
     "filename": "Pack of 2 Madam Bra - N5 - Non Padded Bra - Non Wired Bra.webp",
     "title": "Madam Comfort Non-Padded Non-Wired Daily Bra - Pack of 2",
@@ -1163,6 +1246,7 @@
   },
   {
     "id": "newProduct84",
+    "slug": "ultra-sexy-bikini-style-stretch-panties-pack-of-2",
     "varName": "newProductImg84",
     "filename": "Pack Of 2 Sexiest Panties - Bikini Style Panties - 1513.webp",
     "title": "Ultra-Sexy Bikini Style Stretch Panties - Pack of 2",
@@ -1177,6 +1261,7 @@
   },
   {
     "id": "newProduct85",
+    "slug": "designer-stocklot-bikini-top-swimwear-pack-of-2",
     "varName": "newProductImg85",
     "filename": "Pack Of 2 Stocklot Bikini Top Swimwear.jpg",
     "title": "Designer Stocklot Bikini Top Swimwear - Pack of 2",
@@ -1191,6 +1276,7 @@
   },
   {
     "id": "newProduct86",
+    "slug": "ck-breathable-plain-cotton-panties-pack-of-3",
     "varName": "newProductImg86",
     "filename": "Pack of 3 - CK Plain Panty - Flourish Mix Colors CK Plain Panty - 444, 555.webp",
     "title": "CK Breathable Plain Cotton Panties - Pack of 3",
@@ -1205,6 +1291,7 @@
   },
   {
     "id": "newProduct87",
+    "slug": "soft-cotton-lace-trimmed-daily-camisole-pack-of-3",
     "varName": "newProductImg87",
     "filename": "Pack of 3 - Cotton Lace Camisole For Women.webp",
     "title": "Soft Cotton Lace-Trimmed Daily Camisole - Pack of 3",
@@ -1219,6 +1306,7 @@
   },
   {
     "id": "newProduct88",
+    "slug": "thailand-premium-stretch-camisole-tops-pack-of-3",
     "varName": "newProductImg88",
     "filename": "Pack of 3 - Thailand Camisole For Women.webp",
     "title": "Thailand Premium Stretch Camisole Tops - Pack of 3",
@@ -1233,6 +1321,7 @@
   },
   {
     "id": "newProduct89",
+    "slug": "ck-soft-stretchable-cotton-jersey-printed-panties-pack-of-3",
     "varName": "newProductImg89",
     "filename": "Pack of 3 Ck Printed Panty - Soft Cotton Stretchable Jersey Panty.webp",
     "title": "CK Soft Stretchable Cotton Jersey Printed Panties - Pack of 3",
@@ -1247,6 +1336,7 @@
   },
   {
     "id": "newProduct90",
+    "slug": "floral-printed-fancy-casual-wear-camisole-pack-of-3-design-b",
     "varName": "newProductImg90",
     "filename": "Pack of 3 Flowers Printed Fancy Casual Wear Camisole 2.webp",
     "title": "Floral Printed Fancy Casual Wear Camisole - Pack of 3 (Design B)",
@@ -1261,6 +1351,7 @@
   },
   {
     "id": "newProduct91",
+    "slug": "floral-printed-fancy-casual-wear-camisole-pack-of-3-design-a",
     "varName": "newProductImg91",
     "filename": "Pack of 3 Flowers Printed Fancy Casual Wear Camisole.webp",
     "title": "Floral Printed Fancy Casual Wear Camisole - Pack of 3 (Design A)",
@@ -1275,6 +1366,7 @@
   },
   {
     "id": "newProduct92",
+    "slug": "imported-branded-stocklot-bikini-top-bundle-pack-of-3",
     "varName": "newProductImg92",
     "filename": "Pack Of 3 Stocklot Bikini Top Swimwear  Bikini Top Bundle  Imported Stock Branded Bikini Top.jpg",
     "title": "Imported Branded Stocklot Bikini Top Bundle - Pack of 3",
@@ -1289,6 +1381,7 @@
   },
   {
     "id": "newProduct93",
+    "slug": "soft-pure-cotton-plain-panties-mix-colors-pack-of-3",
     "varName": "newProductImg93",
     "filename": "Pack of 3 Womens Cotton Plain Panties – AF-118 – Mix Colors.webp",
     "title": "Soft Pure Cotton Plain Panties Mix Colors - Pack of 3",
@@ -1303,6 +1396,7 @@
   },
   {
     "id": "newProduct94",
+    "slug": "girls-colourful-stretch-cotton-camisole-tanks-pack-of-5",
     "varName": "newProductImg94",
     "filename": "Pack of 5 Camisole for Girls - Fancy Colourful Tank Top - Mix Colours.webp",
     "title": "Girls Colourful Stretch Cotton Camisole Tanks - Pack of 5",
@@ -1317,6 +1411,7 @@
   },
   {
     "id": "newProduct95",
+    "slug": "womens-casual-cotton-printed-loungewear-pajama",
     "varName": "newProductImg95",
     "filename": "PAJAMA WOMEN NIGHT WEAR.jpg",
     "title": "Women's Casual Cotton Printed Loungewear Pajama",
@@ -1331,6 +1426,7 @@
   },
   {
     "id": "newProduct96",
+    "slug": "pink-beauty-flattering-2-piece-bikini-set",
     "varName": "newProductImg96",
     "filename": "Pink Beauty Bikini Set.webp",
     "title": "Pink Beauty Flattering 2-Piece Bikini Set",
@@ -1345,6 +1441,7 @@
   },
   {
     "id": "newProduct97",
+    "slug": "pink-polka-dotted-cross-single-padded-bra-panty-set",
     "varName": "newProductImg97",
     "filename": "Pink Polka Dotted Cross Single Padded Bra Panty Set.webp",
     "title": "Pink Polka Dotted Cross Single-Padded Bra Panty Set",
@@ -1359,6 +1456,7 @@
   },
   {
     "id": "newProduct98",
+    "slug": "plain-fancy-soft-camisole-top-jet-black",
     "varName": "newProductImg98",
     "filename": "Plain Fancy Camisole For Women - Black Color - 184.webp",
     "title": "Plain Fancy Soft Camisole Top - Jet Black",
@@ -1373,6 +1471,7 @@
   },
   {
     "id": "newProduct99",
+    "slug": "plain-fancy-soft-camisole-top-blush-pink",
     "varName": "newProductImg99",
     "filename": "Plain Fancy Camisole For Women - Pink Color - 184.webp",
     "title": "Plain Fancy Soft Camisole Top - Blush Pink",
@@ -1387,6 +1486,7 @@
   },
   {
     "id": "newProduct100",
+    "slug": "plain-fancy-soft-camisole-top-sky-blue",
     "varName": "newProductImg100",
     "filename": "Plain Fancy Camisole For Women - Sky Blue Color - 184.webp",
     "title": "Plain Fancy Soft Camisole Top - Sky Blue",
@@ -1401,6 +1501,7 @@
   },
   {
     "id": "newProduct101",
+    "slug": "premium-ultra-soft-beige-terry-cotton-bathrobe",
     "varName": "newProductImg101",
     "filename": "Premium Soft Beige Terry Bathrobe.webp",
     "title": "Premium Ultra-Soft Beige Terry Cotton Bathrobe",
@@ -1415,6 +1516,7 @@
   },
   {
     "id": "newProduct102",
+    "slug": "spa-grade-premium-waffle-weave-cotton-bathrobe",
     "varName": "newProductImg102",
     "filename": "Premium Waffle Weave Bathrobe.webp",
     "title": "Spa Grade Premium Waffle Weave Cotton Bathrobe",
@@ -1429,6 +1531,7 @@
   },
   {
     "id": "newProduct103",
+    "slug": "premium-cotton-fabric-relaxed-fit-night-robe",
     "varName": "newProductImg103",
     "filename": "Premium Women Cotton Fabric Night Robe.webp",
     "title": "Premium Cotton Fabric Relaxed Fit Night Robe",
@@ -1443,6 +1546,7 @@
   },
   {
     "id": "newProduct104",
+    "slug": "prinstory-warm-fleece-ruffle-long-bathrobe",
     "varName": "newProductImg104",
     "filename": "PrinStory Womens Robe Fleece Ruffle Warm Long Bathrobe.jpg",
     "title": "PrinStory Warm Fleece Ruffle Long Bathrobe",
@@ -1457,6 +1561,7 @@
   },
   {
     "id": "newProduct105",
+    "slug": "printed-stretch-jersey-pajama-tights-for-women",
     "varName": "newProductImg105",
     "filename": "Printed Tights - Jersey Pajama For Women - PP-004.webp",
     "title": "Printed Stretch Jersey Pajama Tights For Women",
@@ -1471,6 +1576,7 @@
   },
   {
     "id": "newProduct106",
+    "slug": "deep-purple-allure-2-piece-bikini-set",
     "varName": "newProductImg106",
     "filename": "Purple Bikini Set.webp",
     "title": "Deep Purple Allure 2-Piece Bikini Set",
@@ -1485,6 +1591,7 @@
   },
   {
     "id": "newProduct107",
+    "slug": "red-and-black-checkered-flannel-lounge-pajama-for-women",
     "varName": "newProductImg107",
     "filename": "Red & Black Checkered Pajama For Women.jpg",
     "title": "Red & Black Checkered Flannel Lounge Pajama For Women",
@@ -1499,6 +1606,7 @@
   },
   {
     "id": "newProduct108",
+    "slug": "luxury-6pcs-bridal-nightwear-trunk-set-nighty-gown-cami-and-bikini-2077",
     "varName": "newProductImg108",
     "filename": "Romantic Nightwear - 6Pcs Bridal Nighty Sets - 2077 - Long Nighty with Gown, Cami Set & Sexy Bikini Set.webp",
     "title": "Luxury 6Pcs Bridal Nightwear Trunk Set - Nighty, Gown, Cami & Bikini (2077)",
@@ -1513,6 +1621,7 @@
   },
   {
     "id": "newProduct109",
+    "slug": "romantic-sheer-lace-babydoll-short-nighty-style-b",
     "varName": "newProductImg109",
     "filename": "Romantic Sexy Short Net Nighty - Babydoll B.webp",
     "title": "Romantic Sheer Lace Babydoll Short Nighty (Style B)",
@@ -1527,6 +1636,7 @@
   },
   {
     "id": "newProduct110",
+    "slug": "romantic-sheer-lace-babydoll-short-nighty-style-a",
     "varName": "newProductImg110",
     "filename": "Romantic Sexy Short Net Nighty - Babydoll.webp",
     "title": "Romantic Sheer Lace Babydoll Short Nighty (Style A)",
@@ -1541,6 +1651,7 @@
   },
   {
     "id": "newProduct111",
+    "slug": "sea-green-fusion-halter-bikini-set",
     "varName": "newProductImg111",
     "filename": "Sea Green Fusion Bikini Set.webp",
     "title": "Sea Green Fusion Halter Bikini Set",
@@ -1555,6 +1666,7 @@
   },
   {
     "id": "newProduct112",
+    "slug": "seamless-front-open-sports-yoga-bra-and-panty-set",
     "varName": "newProductImg112",
     "filename": "Seamless Front Open Panty Set For Sports Girls, Women's Sports & Yoga Bra.webp",
     "title": "Seamless Front-Open Sports Yoga Bra & Panty Set",
@@ -1569,6 +1681,7 @@
   },
   {
     "id": "newProduct113",
+    "slug": "secret-possessions-lace-waist-cotton-brief-panties-pack-of-4",
     "varName": "newProductImg113",
     "filename": "Secret Possessions Panty - Basic Cotton Stretch Lace Waist Brief Panty Pack of 4.webp",
     "title": "Secret Possessions Lace Waist Cotton Brief Panties - Pack of 4",
@@ -1583,6 +1696,7 @@
   },
   {
     "id": "newProduct114",
+    "slug": "secret-treasure-push-up-t-shirt-bra-nude-skin",
     "varName": "newProductImg114",
     "filename": "Secret Treasure Push Up Bra - Skin - T-Shirt Bra Single Padded Push Up Bra.webp",
     "title": "Secret Treasure Push-Up T-Shirt Bra - Nude Skin",
@@ -1597,6 +1711,7 @@
   },
   {
     "id": "newProduct115",
+    "slug": "senslife-luxury-lace-short-romantic-nighty",
     "varName": "newProductImg115",
     "filename": "Senslife Short Romantic Nighty For Women.webp",
     "title": "Senslife Luxury Lace Short Romantic Nighty",
@@ -1611,6 +1726,7 @@
   },
   {
     "id": "newProduct116",
+    "slug": "silky-padded-halter-bikini-set-jet-black",
     "varName": "newProductImg116",
     "filename": "Sexy Bikini - Silk Padded Bikini & Swimwear - Black Bikini.webp",
     "title": "Silky Padded Halter Bikini Set - Jet Black",
@@ -1625,6 +1741,7 @@
   },
   {
     "id": "newProduct117",
+    "slug": "silky-padded-halter-bikini-set-rich-maroon",
     "varName": "newProductImg117",
     "filename": "Sexy Bikini - Silk Padded Bikini & Swimwear - Maroon Bikini.webp",
     "title": "Silky Padded Halter Bikini Set - Rich Maroon",
@@ -1639,6 +1756,7 @@
   },
   {
     "id": "newProduct118",
+    "slug": "silky-padded-halter-bikini-set-crimson-red",
     "varName": "newProductImg118",
     "filename": "Sexy Bikini - Silk Padded Bikini & Swimwear - Red Bikini.webp",
     "title": "Silky Padded Halter Bikini Set - Crimson Red",
@@ -1653,6 +1771,7 @@
   },
   {
     "id": "newProduct119",
+    "slug": "sexy-black-single-padded-lace-bikini-bra-panty-set",
     "varName": "newProductImg119",
     "filename": "Sexy Black Bikini Set Single Padded - Fancy Bra Panty Set.webp",
     "title": "Sexy Black Single-Padded Lace Bikini Bra Panty Set",
@@ -1667,6 +1786,7 @@
   },
   {
     "id": "newProduct120",
+    "slug": "sexy-breathable-cotton-net-short-nighty",
     "varName": "newProductImg120",
     "filename": "Sexy Cotton Net Short Nighty For Women.webp",
     "title": "Sexy Breathable Cotton Net Short Nighty",
@@ -1681,6 +1801,7 @@
   },
   {
     "id": "newProduct121",
+    "slug": "intricate-geometric-net-bodystocking-hz8825",
     "varName": "newProductImg121",
     "filename": "Sexy Net Bodystocking HZ8825.webp",
     "title": "Intricate Geometric Net Bodystocking HZ8825",
@@ -1695,6 +1816,7 @@
   },
   {
     "id": "newProduct122",
+    "slug": "alluring-short-romantic-lace-nighty",
     "varName": "newProductImg122",
     "filename": "Sexy Short Romantic Nighty For Women.webp",
     "title": "Alluring Short Romantic Lace Nighty",
@@ -1709,6 +1831,7 @@
   },
   {
     "id": "newProduct123",
+    "slug": "sexy-sheer-embroidered-net-bra-panty-set",
     "varName": "newProductImg123",
     "filename": "Sexy Transparent Net Bra Panty Set.jpg",
     "title": "Sexy Sheer Embroidered Net Bra Panty Set",
@@ -1723,6 +1846,7 @@
   },
   {
     "id": "newProduct124",
+    "slug": "transparent-lace-bikini-panty-with-silk-bow",
     "varName": "newProductImg124",
     "filename": "Sexy-Culotte-En-Dentelle-Transparente-Femmes-Sous-V-tements-M-moires-Nylon-Soie-pour-Dames-Bikini_360x.webp",
     "title": "Transparent Lace Bikini Panty with Silk Bow",
@@ -1737,6 +1861,7 @@
   },
   {
     "id": "newProduct125",
+    "slug": "vibrant-shocking-pink-2-piece-bikini-set",
     "varName": "newProductImg125",
     "filename": "Shocking Pink Bikini Set.webp",
     "title": "Vibrant Shocking Pink 2-Piece Bikini Set",
@@ -1751,6 +1876,7 @@
   },
   {
     "id": "newProduct126",
+    "slug": "shopping-station-short-romantic-nighty-for-women-2014",
     "varName": "newProductImg126",
     "filename": "Shopping Station Short Romantic Nighty For Women - 2014.jpg",
     "title": "Shopping Station Short Romantic Nighty For Women - 2014",
@@ -1765,6 +1891,7 @@
   },
   {
     "id": "newProduct127",
+    "slug": "shopping-station-silky-short-romantic-nighty",
     "varName": "newProductImg127",
     "filename": "Shopping Station Short Romantic Nighty.webp",
     "title": "Shopping Station Silky Short Romantic Nighty",
@@ -1779,6 +1906,7 @@
   },
   {
     "id": "newProduct128",
+    "slug": "black-satin-short-night-dress-with-full-sleeves-robe",
     "varName": "newProductImg128",
     "filename": "Short Night Dress & Full Sleeves Robe - Black - Satin.webp",
     "title": "Black Satin Short Night Dress with Full Sleeves Robe",
@@ -1793,6 +1921,7 @@
   },
   {
     "id": "newProduct129",
+    "slug": "classic-single-padded-everyday-bra-off-white",
     "varName": "newProductImg129",
     "filename": "Single Padded Off-White Bra.webp",
     "title": "Classic Single-Padded Everyday Bra - Off White",
@@ -1807,6 +1936,7 @@
   },
   {
     "id": "newProduct130",
+    "slug": "nude-skin-butterfly-single-padded-bikini-set",
     "varName": "newProductImg130",
     "filename": "Skin Butterfly Single Padded Bikini Set.webp",
     "title": "Nude Skin Butterfly Single-Padded Bikini Set",
@@ -1821,6 +1951,7 @@
   },
   {
     "id": "newProduct131",
+    "slug": "sklu-fashion-patterned-sheer-pantyhose-leg-stockings",
     "varName": "newProductImg131",
     "filename": "SKLU Fashion Figured Painty Hose Sexy Leg Stocking-8606.jpg",
     "title": "SKLU Fashion Patterned Sheer Pantyhose Leg Stockings",
@@ -1835,6 +1966,7 @@
   },
   {
     "id": "newProduct132",
+    "slug": "solid-silk-pink-chemise-and-robe-with-delicate-lace-trim",
     "varName": "newProductImg132",
     "filename": "Solid Silk Pink Chemise & Robe Wih Lace - Rb Che-Pk.webp",
     "title": "Solid Silk Pink Chemise & Robe with Delicate Lace Trim",
@@ -1849,6 +1981,7 @@
   },
   {
     "id": "newProduct133",
+    "slug": "sweet-strawberry-print-bikini-set-candy-pink",
     "varName": "newProductImg133",
     "filename": "Strawberry Pink Bikini Set.webp",
     "title": "Sweet Strawberry Print Bikini Set - Candy Pink",
@@ -1863,6 +1996,7 @@
   },
   {
     "id": "newProduct134",
+    "slug": "sweet-strawberry-print-bikini-set-sky-blue",
     "varName": "newProductImg134",
     "filename": "Strawberry Sky Blue Bikini Set.webp",
     "title": "Sweet Strawberry Print Bikini Set - Sky Blue",
@@ -1877,6 +2011,7 @@
   },
   {
     "id": "newProduct135",
+    "slug": "sweet-strawberry-print-bikini-set-pure-white",
     "varName": "newProductImg135",
     "filename": "Strawberry White Bikini Set.webp",
     "title": "Sweet Strawberry Print Bikini Set - Pure White",
@@ -1891,6 +2026,7 @@
   },
   {
     "id": "newProduct136",
+    "slug": "sweet-strawberry-print-bikini-set-sunny-yellow",
     "varName": "newProductImg136",
     "filename": "Strawberry Yellow Bikini Set.webp",
     "title": "Sweet Strawberry Print Bikini Set - Sunny Yellow",
@@ -1905,6 +2041,7 @@
   },
   {
     "id": "newProduct137",
+    "slug": "bridal-cheetah-print-single-padded-bra-panty-set",
     "varName": "newProductImg137",
     "filename": "Stylish Bridal Cheetah Bra Panty Sets - Single Padded Non Wired - Brown & White.webp",
     "title": "Bridal Cheetah Print Single-Padded Bra Panty Set",
@@ -1919,6 +2056,7 @@
   },
   {
     "id": "newProduct138",
+    "slug": "stylish-floral-printed-casual-camisole-top",
     "varName": "newProductImg138",
     "filename": "Stylish Flower Printed Casual Wear Camisole.webp",
     "title": "Stylish Floral Printed Casual Camisole Top",
@@ -1933,6 +2071,7 @@
   },
   {
     "id": "newProduct139",
+    "slug": "stylish-white-long-nighty-with-pink-floral-print",
     "varName": "newProductImg139",
     "filename": "Stylish White Long Nighty With Pink Flower Pr.webp",
     "title": "Stylish White Long Nighty with Pink Floral Print",
@@ -1947,6 +2086,7 @@
   },
   {
     "id": "newProduct140",
+    "slug": "tkeshto-womens-breathable-cotton-tummy-tucker-model-2",
     "varName": "newProductImg140",
     "filename": "Tkeshto Womens Cotton Tummy Tucker 2.jpg",
     "title": "Tkeshto Women's Breathable Cotton Tummy Tucker (Model 2)",
@@ -1961,6 +2101,7 @@
   },
   {
     "id": "newProduct141",
+    "slug": "tkeshto-womens-breathable-cotton-tummy-tucker-model-1",
     "varName": "newProductImg141",
     "filename": "Tkeshto Womens Cotton Tummy Tucker.jpg",
     "title": "Tkeshto Women's Breathable Cotton Tummy Tucker (Model 1)",
@@ -1975,6 +2116,7 @@
   },
   {
     "id": "newProduct142",
+    "slug": "tulip-t-118-soft-breathable-cotton-everyday-bra",
     "varName": "newProductImg142",
     "filename": "Tulip Bra - T-118 Bra - Soft Cotton Bra - Non Padded Non Wired Bra.webp",
     "title": "Tulip T-118 Soft Breathable Cotton Everyday Bra",
@@ -1989,6 +2131,7 @@
   },
   {
     "id": "newProduct143",
+    "slug": "victorias-secret-style-double-padded-push-up-bra-panty-set",
     "varName": "newProductImg143",
     "filename": "Victoria's Secret - Pushup Bra Panty Sets - Polka Dotted Lace Double Padded Bra.webp",
     "title": "Victoria's Secret Style Double-Padded Push-Up Bra Panty Set",
@@ -2003,6 +2146,7 @@
   },
   {
     "id": "newProduct144",
+    "slug": "victorias-secret-style-soft-padded-push-up-bra-panty-set",
     "varName": "newProductImg144",
     "filename": "Victoria's Secret - Pushup Soft Padded Bra Panty Set - Plain Bra.jpg",
     "title": "Victoria's Secret Style Soft-Padded Push-Up Bra Panty Set",
@@ -2017,6 +2161,7 @@
   },
   {
     "id": "newProduct145",
+    "slug": "white-satin-silk-gown-with-scalloped-floral-lace",
     "varName": "newProductImg145",
     "filename": "White Color Silk Gown With Lace - Gwn36-Wht.webp",
     "title": "White Satin Silk Gown with Scalloped Floral Lace",
@@ -2031,6 +2176,7 @@
   },
   {
     "id": "newProduct146",
+    "slug": "white-long-floral-printed-nighty-with-side-pocket",
     "varName": "newProductImg146",
     "filename": "White Long Nighty Printed & Side Pocket.webp",
     "title": "White Long Floral Printed Nighty with Side Pocket",
@@ -2045,6 +2191,7 @@
   },
   {
     "id": "newProduct147",
+    "slug": "white-underwired-sheer-net-lace-bra",
     "varName": "newProductImg147",
     "filename": "White Underwired Net Bra.webp",
     "title": "White Underwired Sheer Net Lace Bra",
@@ -2059,6 +2206,7 @@
   },
   {
     "id": "newProduct148",
+    "slug": "womens-deluxe-plush-terry-bathrobe",
     "varName": "newProductImg148",
     "filename": "Women Plush Terry Bathrobe.webp",
     "title": "Women's Deluxe Plush Terry Bathrobe",
@@ -2073,6 +2221,7 @@
   },
   {
     "id": "newProduct149",
+    "slug": "womens-classic-soft-absorbent-terry-bathrobe",
     "varName": "newProductImg149",
     "filename": "Women Soft Terry Bathrobe.webp",
     "title": "Women's Classic Soft Absorbent Terry Bathrobe",
@@ -2087,6 +2236,7 @@
   },
   {
     "id": "newProduct150",
+    "slug": "young-trends-short-romantic-bridal-nighty",
     "varName": "newProductImg150",
     "filename": "Young Trends Short Romantic Nighty For.webp",
     "title": "Young Trends Short Romantic Bridal Nighty",
