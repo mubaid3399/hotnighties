@@ -52,43 +52,44 @@ const LadiesNightwear = () => {
             {nightwearCategories.length} Categories
           </span>
         </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 gap-5 sm:gap-6">
           {nightwearCategories.map((sub) => (
             <Link
               key={sub.id}
               to={`/collections/${sub.slug}`}
-              className="group bg-white rounded-2xl overflow-hidden border border-gray-100 shadow-xs hover:shadow-lg hover:border-[#501524]/20 transition-all duration-300 flex flex-col text-center"
+              className="group relative rounded-2xl overflow-hidden border border-gray-100 shadow-xs hover:shadow-lg hover:border-[#501524]/20 hover:-translate-y-1 transition-all duration-300 aspect-square block bg-white"
             >
-              <div className="w-full aspect-square overflow-hidden bg-gray-50">
-                <img
-                  src={sub.image}
-                  alt={sub.title}
-                  loading="lazy"
-                  className="w-full h-full object-cover group-hover:scale-108 transition-transform duration-500"
-                />
-              </div>
-              <div className="p-2.5 sm:p-3 flex-1 flex items-center justify-center">
-                <h3 className="text-xs font-bold text-gray-800 group-hover:text-[#501524] transition-colors line-clamp-1">
-                  {sub.title}
-                </h3>
-              </div>
+              <img
+                src={sub.image}
+                alt={sub.title}
+                loading="lazy"
+                className="w-full h-full object-cover group-hover:scale-106 transition-transform duration-500"
+              />
             </Link>
           ))}
         </div>
       </div>
 
       <div className="flex justify-between items-center mb-6">
-        <h2 className="text-xl md:text-2xl font-bold text-gray-900">
-          ALL NIGHTWEAR
-        </h2>
-        <span className="text-sm text-gray-500">
-          {nightwearProducts.length} Results
-        </span>
+        <div>
+          <h2 className="text-xl md:text-2xl font-bold text-gray-900">
+            FEATURED NIGHTWEAR
+          </h2>
+          <p className="text-xs text-gray-500">
+            Top customer favorites & relaxing sleepwear pieces
+          </p>
+        </div>
+        <Link
+          to="/shop"
+          className="text-xs sm:text-sm font-semibold text-[#501524] hover:underline"
+        >
+          View All Products in Shop →
+        </Link>
       </div>
 
       {nightwearProducts.length > 0 ? (
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
-          {nightwearProducts.map((item, index) => (
+          {nightwearProducts.slice(0, 8).map((item, index) => (
             <ProductCard
               key={item.id || index}
               id={item.id}

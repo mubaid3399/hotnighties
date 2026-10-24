@@ -4,6 +4,9 @@ import { gsap } from "gsap";
 import { ShoppingBag, ChevronDown } from "lucide-react";
 import asset from "../../assets/asset";
 import { ShopContext } from "../../context/ShopContext";
+import lingerieImg from "../../assets/catagoryies/Sexy-Lingerie-Online-Shopping-in-Pakistan-2_result_large.webp";
+import nightwearImg from "../../assets/catagoryies/Ladies-Nightwear-Sleepwear-Nighty-Online-Shopping-in-Pakistan_result_large.webp";
+import undergarmentsImg from "../../assets/catagoryies/Undergarments-NN-02_large.webp";
 
 const announcements = [
   "Get 30% off on your first order!",
@@ -24,7 +27,7 @@ const megaMenuData = {
     {
       title: "LINGERIE",
       path: "/collections/sexy-lingerie",
-      image: asset.banner1,
+      image: lingerieImg,
       items: [
         { name: "Bathrobe", path: "/collections/ladies-bathrobe" },
         { name: "Bikini", path: "/collections/ladies-bikini" },
@@ -37,7 +40,7 @@ const megaMenuData = {
     {
       title: "NIGHTWEAR",
       path: "/collections/ladies-nightwear",
-      image: asset.banner2,
+      image: nightwearImg,
       items: [
         { name: "Gown", path: "/collections/ladies-gown" },
         { name: "Nightdress", path: "/collections/ladies-nightdress" },
@@ -48,7 +51,7 @@ const megaMenuData = {
     {
       title: "UNDERGARMENTS",
       path: "/collections/ladies-undergarments",
-      image: asset.banner3,
+      image: undergarmentsImg,
       items: [
         { name: "Bra", path: "/collections/classic-bra" },
         { name: "Bra Panty Sets", path: "/collections/bra-panty-sets" },
@@ -186,8 +189,8 @@ const Navbar = () => {
   const navLinks = [
     { name: "HOME", path: "/" },
     { name: "WOMAN", path: "/collections", hasMegaMenu: true },
-    { name: "BRAS", path: "/bras" },
-    { name: "NIGHTY", path: "/nighties" },
+    { name: "BRAS", path: "/collections/classic-bra" },
+    { name: "NIGHTY", path: "/collections/ladies-nighty" },
     { name: "ABOUT", path: "/about" },
     { name: "CONTACT", path: "/contact" },
   ];

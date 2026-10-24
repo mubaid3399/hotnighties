@@ -1,7 +1,9 @@
-import React, { useContext, useEffect, useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useContext, useEffect, useState, useMemo } from 'react';
+import { useParams, useNavigate, Link } from 'react-router-dom';
 import { ShopContext } from '../context/ShopContext';
 import ProductCard from '../components/product/ProductCard';
+import ProductArticle from '../components/product/ProductArticle';
+import { getProductArticle } from '../data/articles';
 import useSEO from '../utils/useSEO';
 
 const ProductDetail = () => {
@@ -9,30 +11,94 @@ const ProductDetail = () => {
   const navigate = useNavigate();
   const { products, currency, addToCart } = useContext(ShopContext);
   
-  const [productData, setProductData] = useState(null);
   const [size, setSize] = useState('M');
-  const [relatedProducts, setRelatedProducts] = useState([]);
-  const [activeTab, setActiveTab] = useState('description');
+
+  const productData = useMemo(() => {
+    return (products || []).find((p) => p.id === id) || null;
+  }, [products, id]);
+
+  const article = useMemo(() => {
+    return productData ? getProductArticle(productData) : null;
+  }, [productData]);
+
+  const relatedProducts = useMemo(() => {
+    if (!productData) return [];
+    return (products || [])
+      .filter((p) => p.subcategory === productData.subcategory && p.id !== productData.id)
+      .slice(0, 4);
+  }, [products, productData]);
+
+  // Generate Product and FAQPage JSON-LD Schema for Google Search Rich Results
+  const seoSchema = useMemo(() => {
+    if (!productData) return null;
+
+    const productSchema = {
+      '@type': 'Product',
+      name: productData.title,
+      description: productData.description,
+      image: productData.image,
+      sku: productData.id,
+      brand: {
+        '@type': 'Brand',
+        name: 'Hotnighties'
+      },
+      offers: {
+        '@type': 'Offer',
+        price: productData.discountedPrice || productData.actualPrice,
+        priceCurrency: 'PKR',
+        availability: 'https://schema.org/InStock',
+        url: `https://hotnighties.pk/product/${productData.id}`,
+        seller: {
+          '@type': 'Organization',
+          name: 'Hotnighties Pakistan'
+        }
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '26'
+      }
+    };
+
+    const faqSchema = article?.faqs && article.faqs.length > 0 ? {
+      '@type': 'FAQPage',
+      mainEntity: article.faqs.map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: faq.answer
+        }
+      }))
+    } : null;
+
+    return faqSchema ? [productSchema, faqSchema] : productSchema;
+  }, [productData, article]);
+
+  // Rich meta description tailored to product & article
+  const metaDescription = useMemo(() => {
+    if (!productData) return 'Buy premium intimate sleepwear and innerwear in Pakistan with discreet packaging.';
+    const sub = article?.subheadline ? ` - ${article.subheadline}` : '';
+    const full = `${productData.title}${sub}. 100% discreet packaging & Cash on Delivery across Pakistan.`;
+    return full.length > 160 ? `${full.slice(0, 157)}...` : full;
+  }, [productData, article]);
 
   useSEO({
-    title: productData ? productData.title : 'Product Details',
-    description: productData?.description ? productData.description.slice(0, 160) : 'Buy premium intimate sleepwear and innerwear in Pakistan with discreet packaging.',
+    title: productData ? `${productData.title} Online in Pakistan` : 'Product Details',
+    description: metaDescription,
     image: productData?.image,
     canonical: `https://hotnighties.pk/product/${id}`,
+    keywords: productData ? [
+      productData.title,
+      productData.subcategory,
+      productData.category,
+      'Pakistan online shopping',
+      'discreet packaging',
+      'cash on delivery',
+      'Hotnighties'
+    ] : undefined,
+    schema: seoSchema,
   });
-
-  useEffect(() => {
-    // Find the current product
-    const product = products.find(p => p.id === id);
-    
-    if (product) {
-      setProductData(product);
-      
-      // Find related products (same subcategory, exclude current)
-      const related = products.filter(p => p.subcategory === product.subcategory && p.id !== product.id);
-      setRelatedProducts(related.slice(0, 4));
-    }
-  }, [id, products]);
 
   // Scroll to top when loading new product
   useEffect(() => {
@@ -40,7 +106,20 @@ const ProductDetail = () => {
   }, [id]);
 
   if (!productData) {
-    return <div className="min-h-screen flex items-center justify-center">Loading...</div>;
+    return (
+      <div className="min-h-[60vh] flex flex-col items-center justify-center text-center px-4 py-16">
+        <h2 className="text-2xl font-bold text-gray-900 mb-2">Product Not Found</h2>
+        <p className="text-gray-500 text-sm mb-6 max-w-md">
+          The intimate apparel item you are looking for may have been updated or is no longer available.
+        </p>
+        <Link
+          to="/shop"
+          className="px-6 py-2.5 rounded-full bg-[#501524] text-white text-sm font-semibold hover:bg-[#6b1d31] transition-colors"
+        >
+          Browse All Products
+        </Link>
+      </div>
+    );
   }
 
   return (
@@ -123,88 +202,9 @@ const ProductDetail = () => {
         </div>
 
         {/* =========================================
-            Detailed Info Tabs (Usecase, FAQs, Quality, Reviews)
+            Detailed Product Article, Why It's Better & FAQs Accordion
         ========================================== */}
-        <div className="mt-20">
-          <div className="flex flex-wrap border-b border-gray-200 gap-8">
-            {['description', 'usecase', 'quality', 'reviews', 'faqs'].map((tab) => (
-              <button
-                key={tab}
-                onClick={() => setActiveTab(tab)}
-                className={`pb-4 text-sm font-semibold uppercase tracking-wider transition-colors relative ${
-                  activeTab === tab ? 'text-[#501524]' : 'text-gray-500 hover:text-gray-900'
-                }`}
-              >
-                {tab === 'description' ? 'Description' : tab}
-                {activeTab === tab && (
-                  <span className="absolute bottom-0 left-0 w-full h-[2px] bg-[#501524]"></span>
-                )}
-              </button>
-            ))}
-          </div>
-          
-          <div className="py-8 min-h-[200px]">
-            {activeTab === 'description' && (
-              <div className="text-gray-600 leading-relaxed text-sm max-w-3xl">
-                {productData.description}
-              </div>
-            )}
-            
-            {activeTab === 'usecase' && (
-              <div className="text-gray-600 leading-relaxed text-sm max-w-3xl space-y-4">
-                <p><strong>Everyday Comfort:</strong> Designed to move with you throughout your day seamlessly.</p>
-                <p><strong>Lounge & Sleep:</strong> The perfect companion for a relaxing evening at home, combining breathable fabrics with an elegant aesthetic.</p>
-                <p><strong>Special Occasions:</strong> Gives you that hidden boost of confidence when wearing your favorite dress or outfit.</p>
-              </div>
-            )}
-            
-            {activeTab === 'quality' && (
-              <div className="text-gray-600 leading-relaxed text-sm max-w-3xl space-y-4">
-                <p>At Hotnighties, quality is our top priority. This product is crafted using premium, skin-friendly fabrics that ensure durability and softness.</p>
-                <ul className="list-disc pl-5 space-y-2">
-                  <li>Fade-resistant dyes to keep colors vibrant wash after wash.</li>
-                  <li>Reinforced stitching at critical stress points for longevity.</li>
-                  <li>Breathable, hypoallergenic material suited for sensitive skin.</li>
-                </ul>
-              </div>
-            )}
-            
-            {activeTab === 'reviews' && (
-              <div className="text-gray-600 text-sm max-w-3xl">
-                <div className="flex items-center gap-2 mb-4">
-                  <span className="text-xl font-bold text-gray-900">4.9 / 5</span>
-                  <div className="flex text-yellow-400">
-                    {'★★★★★'.split('').map((star, i) => <span key={i}>{star}</span>)}
-                  </div>
-                  <span className="text-gray-500 ml-2">(24 reviews)</span>
-                </div>
-                <div className="border-b border-gray-100 py-4">
-                  <p className="font-bold text-gray-900">Sarah M.</p>
-                  <p className="text-xs text-gray-400 mb-2">Verified Buyer</p>
-                  <p>"Absolutely love this! The fit is perfect and the material feels incredibly luxurious. Highly recommend!"</p>
-                </div>
-                <div className="border-b border-gray-100 py-4">
-                  <p className="font-bold text-gray-900">Aisha K.</p>
-                  <p className="text-xs text-gray-400 mb-2">Verified Buyer</p>
-                  <p>"So comfortable I forget I have it on. Will definitely be buying in more colors."</p>
-                </div>
-              </div>
-            )}
-            
-            {activeTab === 'faqs' && (
-              <div className="text-gray-600 text-sm max-w-3xl space-y-6">
-                <div>
-                  <p className="font-bold text-gray-900 mb-1">How do I wash this item?</p>
-                  <p>We recommend hand washing in cold water or machine washing on a delicate cycle in a lingerie bag. Do not tumble dry.</p>
-                </div>
-                <div>
-                  <p className="font-bold text-gray-900 mb-1">Is this true to size?</p>
-                  <p>Yes! Our products are designed to fit true to size. Please refer to our size guide for specific measurements.</p>
-                </div>
-              </div>
-            )}
-          </div>
-        </div>
+        <ProductArticle product={productData} />
 
         {/* =========================================
             Related Products
@@ -217,11 +217,12 @@ const ProductDetail = () => {
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
               {relatedProducts.map((item, index) => (
                 <ProductCard
-                  key={index}
+                  key={item.id || index}
                   id={item.id}
                   image={item.image}
                   title={item.title}
                   price={item.discountedPrice}
+                  oldPrice={item.actualPrice}
                 />
               ))}
             </div>

@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { ShopContext } from '../../../context/ShopContext';
 import ProductCard from '../../../components/product/ProductCard';
@@ -7,13 +7,13 @@ import useSEO from '../../../utils/useSEO';
 const ClassicBra = () => {
   useSEO({
     title: 'Classic Bras Collection | Hotnighties',
-    description: 'Supportive, wireless, push-up, and everyday classic bras for women.',
+    description: 'Supportive, wireless, push-up, and everyday classic bras for women with discreet packaging.',
     canonical: 'https://hotnighties.pk/collections/classic-bra',
   });
 
   const { products } = useContext(ShopContext);
   const braProducts = products?.filter(
-    (item) => item.type === 'bra' || item.subcategory?.toLowerCase().includes('bra')
+    (item) => item.type === 'bra' || item.subcategory?.toLowerCase().includes('bra') || item.title?.toLowerCase().includes('bra')
   ) || [];
 
   return (
@@ -33,7 +33,7 @@ const ClassicBra = () => {
           Classic & Supportive Bras
         </h1>
         <p className="text-gray-600 max-w-2xl mx-auto text-sm sm:text-base">
-          Find your perfect silhouette with our supportive, seamless, full-coverage, and sports bras.
+          Find your perfect silhouette with our supportive, seamless, full-coverage, and sports bras designed for everyday elegance.
         </p>
       </div>
 
@@ -41,7 +41,7 @@ const ClassicBra = () => {
         <h2 className="text-xl md:text-2xl font-bold text-gray-900">
           ALL BRAS
         </h2>
-        <span className="text-sm text-gray-500">
+        <span className="text-sm text-gray-500 font-semibold bg-[#501524]/10 text-[#501524] px-3 py-1 rounded-full">
           {braProducts.length} Results
         </span>
       </div>

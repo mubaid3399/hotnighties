@@ -1,13 +1,10 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import ShopContextProvider from './context/ShopContext';
 import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
 import Shop from './pages/Shop';
-import Nighties from './pages/Nighties';
-import Bras from './pages/Bras';
-import Panties from './pages/Panties';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Cart from './pages/Cart';
@@ -24,28 +21,13 @@ import AllCategories from './pages/AllCategories';
 import Accessories from './pages/Accessories';
 import PakistaniDresses from './pages/PakistaniDresses';
 
-// Collections - Lingerie
+// Collection Pages (Organized strictly in collections/)
 import SexyLingerie from './pages/collections/lingerie/SexyLingerie';
-import LadiesBathrobe from './pages/collections/lingerie/LadiesBathrobe';
-import Bikini from './pages/collections/lingerie/Bikini';
-import BodyShaper from './pages/collections/lingerie/BodyShaper';
-import BodyStocking from './pages/collections/lingerie/BodyStocking';
-import LegStocking from './pages/collections/lingerie/LegStocking';
-import Stocking from './pages/collections/lingerie/Stocking';
-
-// Collections - Nightwear
 import LadiesNightwear from './pages/collections/nightwear/LadiesNightwear';
-import Gown from './pages/collections/nightwear/Gown';
-import Nightdress from './pages/collections/nightwear/Nightdress';
-import Nighty from './pages/collections/nightwear/Nighty';
-import NightySets from './pages/collections/nightwear/NightySets';
-
-// Collections - Undergarments
 import LadiesUndergarments from './pages/collections/undergarments/LadiesUndergarments';
 import ClassicBra from './pages/collections/undergarments/ClassicBra';
-import BraPantySets from './pages/collections/undergarments/BraPantySets';
-import Camisole from './pages/collections/undergarments/Camisole';
 import Panty from './pages/collections/undergarments/Panty';
+import Nighty from './pages/collections/nightwear/Nighty';
 import CategoryDetailCollection from './pages/collections/CategoryDetailCollection';
 
 import CartSidebar from './components/Common/CartSidebar';
@@ -72,9 +54,12 @@ const App = () => {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="shop" element={<Shop />} />
-            <Route path="nighties" element={<Nighties />} />
-            <Route path="bras" element={<Bras />} />
-            <Route path="panties" element={<Panties />} />
+
+            {/* Legacy URL Redirects directly to collections */}
+            <Route path="bras" element={<Navigate to="/collections/classic-bra" replace />} />
+            <Route path="nighties" element={<Navigate to="/collections/ladies-nighty" replace />} />
+            <Route path="panties" element={<Navigate to="/collections/ladies-panty" replace />} />
+
             <Route path="about" element={<About />} />
             <Route path="contact" element={<Contact />} />
             <Route path="cart" element={<Cart />} />
@@ -100,42 +85,20 @@ const App = () => {
             <Route path="pakistani-dresses" element={<PakistaniDresses />} />
             <Route path="collections/pakistani-dresses" element={<PakistaniDresses />} />
 
-            {/* Collections: Sexy Lingerie & Subcategories */}
-            <Route path="collections/sexy-lingerie" element={<SexyLingerie />} />
-            <Route path="collections/ladies-bathrobe" element={<LadiesBathrobe />} />
-            <Route path="collections/bathrobe" element={<LadiesBathrobe />} />
-            <Route path="collections/ladies-bikini" element={<Bikini />} />
-            <Route path="collections/bikini" element={<Bikini />} />
-            <Route path="collections/body-shaper" element={<BodyShaper />} />
-            <Route path="collections/ladies-body-shaper" element={<BodyShaper />} />
-            <Route path="collections/body-stocking" element={<BodyStocking />} />
-            <Route path="collections/ladies-body-stocking" element={<BodyStocking />} />
-            <Route path="collections/leg-stocking" element={<LegStocking />} />
-            <Route path="collections/ladies-leg-stocking" element={<LegStocking />} />
-            <Route path="collections/stocking" element={<Stocking />} />
-            <Route path="collections/ladies-stocking" element={<Stocking />} />
-
-            {/* Collections: Ladies Nightwear & Subcategories */}
-            <Route path="collections/ladies-nightwear" element={<LadiesNightwear />} />
-            <Route path="collections/ladies-gown" element={<Gown />} />
-            <Route path="collections/gown" element={<Gown />} />
-            <Route path="collections/ladies-nightdress" element={<Nightdress />} />
-            <Route path="collections/nightdress" element={<Nightdress />} />
-            <Route path="collections/ladies-nighty" element={<Nighty />} />
-            <Route path="collections/nighty" element={<Nighty />} />
-            <Route path="collections/ladies-nighty-sets" element={<NightySets />} />
-            <Route path="collections/nighty-sets" element={<NightySets />} />
-
-            {/* Collections: Ladies Undergarments & Subcategories */}
-            <Route path="collections/ladies-undergarments" element={<LadiesUndergarments />} />
+            {/* Collection Pages (Housed exclusively in collections/) */}
             <Route path="collections/classic-bra" element={<ClassicBra />} />
-            <Route path="collections/bra-panty-sets" element={<BraPantySets />} />
-            <Route path="collections/camisole" element={<Camisole />} />
-            <Route path="collections/ladies-camisole" element={<Camisole />} />
+            <Route path="collections/bra" element={<ClassicBra />} />
             <Route path="collections/ladies-panty" element={<Panty />} />
             <Route path="collections/panty" element={<Panty />} />
+            <Route path="collections/ladies-nighty" element={<Nighty />} />
+            <Route path="collections/nighty" element={<Nighty />} />
 
-            {/* Universal Route for All 67 Collections */}
+            {/* Department Hubs */}
+            <Route path="collections/sexy-lingerie" element={<SexyLingerie />} />
+            <Route path="collections/ladies-nightwear" element={<LadiesNightwear />} />
+            <Route path="collections/ladies-undergarments" element={<LadiesUndergarments />} />
+
+            {/* Universal Engine for All 67 Collections & Subcategories */}
             <Route path="collections/:categorySlug" element={<CategoryDetailCollection />} />
 
             <Route path="404" element={<NotFound />} />
@@ -147,4 +110,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default App;

@@ -84,6 +84,7 @@ import nightieProduct29 from "./Women's Sexy Nighties Hot Selling Satin Pajamas 
 import nightieProduct30 from "./Women's Sleepwear Underwear Transparent Sexy Lace Lingerie Pijamas Sets Nightdress and Panty Female Nighty Clothes Party Gift.webp";
 import nightieProduct31 from "./Womens Pajamas Nighty for Ladies Sexy Hot Robe Sexy Satin.webp";
 import nightieProduct32 from "./sexy sleeperwear lingerie.webp";
+import { newProducts, newProductImages } from "../data/productsData.js";
 
 // ------------------------------------------------------------
 // 2. CATEGORY NAMES & HELPERS
@@ -683,7 +684,7 @@ const nighties = withCategory(CATEGORY_SLEEPWEAR, "nightie", [
 // 4. COMBINED CATALOG & EXPORTS
 // ------------------------------------------------------------
 
-export const products = [...bras, ...panties, ...nighties];
+export const products = [...bras, ...panties, ...nighties, ...newProducts];
 
 export const asset = {
     logo,
@@ -749,6 +750,7 @@ export const asset = {
     nightieProduct30,
     nightieProduct31,
     nightieProduct32,
+    ...newProductImages,
 };
 
 export default asset;
@@ -756,10 +758,11 @@ export default asset;
 // Logo
 export { logo };
 
-// Category groups (same names as before, so existing imports keep working)
-export const braProducts = bras;
-export const pantieProducts = panties;
-export const nightieProducts = nighties;
+// Category groups (same names as before, enriched with newly added items)
+export const braProducts = products.filter((p) => p.type === "bra");
+export const pantieProducts = products.filter((p) => p.type === "panty");
+export const nightieProducts = products.filter((p) => p.type === "nightie");
+export const newProductsCatalog = newProducts;
 export const bestSellers = products.filter((p) => p.bestseller);
 
 // Top-level categories and their subcategories, e.g. for filters and menus

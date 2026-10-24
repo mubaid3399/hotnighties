@@ -1,13 +1,32 @@
-# https://www.robotstxt.org/robotstxt.html
+# Robots.txt for Hotnighties Pakistan (https://hotnighties.pk)
+User-agent: Googlebot
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /404
+Disallow: /admin
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /catagoryies/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /404
+Disallow: /admin
+
 User-agent: *
 Allow: /
 Disallow: /cart
 Disallow: /checkout
 Disallow: /order-success
 Disallow: /404
+Disallow: /admin
 
-# Host
+# Host & Sitemap Directives
 Host: https://hotnighties.pk
-
-# Sitemaps
 Sitemap: https://hotnighties.pk/sitemap.xml

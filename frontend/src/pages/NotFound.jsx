@@ -152,21 +152,21 @@ const NotFound = () => {
           </p>
           <div className="flex flex-wrap items-center justify-center gap-2">
             <Link
-              to="/shop"
+              to="/collections/ladies-nighty"
               className="text-xs font-medium text-gray-600 hover:text-[#501524] bg-gray-50 hover:bg-[#501524]/5 border border-gray-200 hover:border-[#501524]/30 px-3 py-1.5 rounded-full transition-colors flex items-center gap-1"
             >
               <span>Nighties</span>
               <ArrowRight size={11} />
             </Link>
             <Link
-              to="/shop"
+              to="/collections/classic-bra"
               className="text-xs font-medium text-gray-600 hover:text-[#501524] bg-gray-50 hover:bg-[#501524]/5 border border-gray-200 hover:border-[#501524]/30 px-3 py-1.5 rounded-full transition-colors flex items-center gap-1"
             >
               <span>Featured Bras</span>
               <ArrowRight size={11} />
             </Link>
             <Link
-              to="/shop"
+              to="/collections/ladies-panty"
               className="text-xs font-medium text-gray-600 hover:text-[#501524] bg-gray-50 hover:bg-[#501524]/5 border border-gray-200 hover:border-[#501524]/30 px-3 py-1.5 rounded-full transition-colors flex items-center gap-1"
             >
               <span>Comfort Panties</span>

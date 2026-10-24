@@ -648,9 +648,24 @@ export const categoriesWithImages = allCategoriesData.map((item) => ({
 
 export const getCategoryBySlug = (slug) => {
   if (!slug) return null;
-  const cleanSlug = slug.toLowerCase().replace('/collections/', '').replace('/', '');
-  return categoriesWithImages.find(
+  const cleanSlug = slug.toLowerCase().replace('/collections/', '').replace('/', '').trim();
+
+  // 1. Direct match by slug or id
+  const directMatch = categoriesWithImages.find(
     (c) => c.slug.toLowerCase() === cleanSlug || c.id.toLowerCase() === cleanSlug
+  );
+  if (directMatch) return directMatch;
+
+  // 2. Normalized aliases: strip or prepend 'ladies-'
+  const withoutLadies = cleanSlug.replace(/^ladies-/, '');
+  const withLadies = `ladies-${withoutLadies}`;
+
+  return categoriesWithImages.find(
+    (c) =>
+      c.slug.toLowerCase() === withLadies ||
+      c.id.toLowerCase() === withLadies ||
+      c.slug.toLowerCase().replace(/^ladies-/, '') === withoutLadies ||
+      c.id.toLowerCase().replace(/^ladies-/, '') === withoutLadies
   );
 };
 

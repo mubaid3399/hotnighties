@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react';
+import { useContext, useState, useMemo } from 'react';
 import { ShopContext } from '../context/ShopContext';
 import ProductCard from '../components/product/ProductCard';
 import useSEO from '../utils/useSEO';
@@ -12,7 +12,6 @@ const Shop = () => {
 
   const { products } = useContext(ShopContext);
 
-  const [filterProducts, setFilterProducts] = useState([]);
   const [category, setCategory] = useState([]);
   const [subCategory, setSubCategory] = useState([]);
   
@@ -38,27 +37,19 @@ const Shop = () => {
     }
   };
 
-  const applyFilter = () => {
-    let productsCopy = products.slice();
+  const filterProducts = useMemo(() => {
+    let list = (products || []).slice();
 
     if (category.length > 0) {
-      productsCopy = productsCopy.filter(item => category.includes(item.category));
+      list = list.filter((item) => category.includes(item.category));
     }
 
     if (subCategory.length > 0) {
-      productsCopy = productsCopy.filter(item => subCategory.includes(item.subcategory));
+      list = list.filter((item) => subCategory.includes(item.subcategory));
     }
 
-    setFilterProducts(productsCopy);
-  };
-
-  useEffect(() => {
-    setFilterProducts(products);
-  }, [products]);
-
-  useEffect(() => {
-    applyFilter();
-  }, [category, subCategory]);
+    return list;
+  }, [products, category, subCategory]);
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 flex flex-col md:flex-row gap-8">
@@ -145,11 +136,12 @@ const Shop = () => {
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 sm:gap-6">
             {filterProducts.map((item, index) => (
               <ProductCard
-                key={index}
+                key={item.id || index}
                 id={item.id}
                 image={item.image}
                 title={item.title}
                 price={item.discountedPrice}
+                oldPrice={item.actualPrice}
               />
             ))}
           </div>

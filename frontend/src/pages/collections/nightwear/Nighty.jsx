@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { ShopContext } from '../../../context/ShopContext';
 import ProductCard from '../../../components/product/ProductCard';
@@ -7,13 +7,18 @@ import useSEO from '../../../utils/useSEO';
 const Nighty = () => {
   useSEO({
     title: 'Ladies Nighty Collection | Hotnighties',
-    description: 'Sensual silk, satin, and lace nighties for honeymoon, bedroom, and everyday relaxation.',
+    description: 'Sensual silk, satin, and lace nighties for honeymoon, bedroom, and everyday relaxation with discreet delivery.',
     canonical: 'https://hotnighties.pk/collections/ladies-nighty',
   });
 
   const { products } = useContext(ShopContext);
   const nightyProducts = products?.filter(
-    (item) => item.category?.toLowerCase().includes('sleepwear') || item.type?.toLowerCase().includes('night')
+    (item) =>
+      item.type === 'nightie' ||
+      item.category?.toLowerCase().includes('sleepwear') ||
+      item.type?.toLowerCase().includes('night') ||
+      item.title?.toLowerCase().includes('nighty') ||
+      item.title?.toLowerCase().includes('nightie')
   ) || [];
 
   return (
@@ -25,7 +30,7 @@ const Nighty = () => {
         <span>/</span>
         <Link to="/collections/ladies-nightwear" className="hover:text-[#501524]">Ladies Nightwear</Link>
         <span>/</span>
-        <span className="text-[#501524] font-medium">Nighty</span>
+        <span className="text-[#501524] font-medium">Nighties</span>
       </nav>
 
       <div className="text-center mb-10">
@@ -33,7 +38,7 @@ const Nighty = () => {
           Ladies Nighties
         </h1>
         <p className="text-gray-600 max-w-2xl mx-auto text-sm sm:text-base">
-          Our signature collection of alluring, sensual, and ultra-comfortable nighties.
+          Our signature collection of alluring, sensual, and ultra-comfortable nighties crafted from satin, silk, and lace.
         </p>
       </div>
 
@@ -41,7 +46,7 @@ const Nighty = () => {
         <h2 className="text-xl md:text-2xl font-bold text-gray-900">
           ALL NIGHTIES
         </h2>
-        <span className="text-sm text-gray-500">
+        <span className="text-sm text-gray-500 font-semibold bg-[#501524]/10 text-[#501524] px-3 py-1 rounded-full">
           {nightyProducts.length} Results
         </span>
       </div>
